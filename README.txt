@@ -1,6 +1,13 @@
 
+Tryton - Capacitación técnica
+-----------------------------
 
-Para generar el archivo en PDF utilizamos rst2pdf: https://github.com/ralsina/rst2pdf
+El objetivo de este documento es ofrecer un primer acercamiento al
+desarrollo de aplicaciones sobre la plataforma Tryton.
+
+
+Para generar el archivo en PDF utilizamos rst2pdf:
+https://github.com/ralsina/rst2pdf
 
 Desde línea de comandos:
 
