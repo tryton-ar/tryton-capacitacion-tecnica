@@ -4,8 +4,8 @@ Tryton: Capacitación técnica
 ============================
 
 :Autores: Mario Puntin, Adrián Bernardi <contacto@silix.com.ar>
-:Versión: 0.2
-:Fecha: Mayo de 2015
+:Versión: 4.4
+:Fecha: Octubre de 2017
 
 .. footer::
    *Silix - Soluciones Informáticas Libres* | *###Title###*
@@ -24,7 +24,11 @@ Temario
 
 .. class:: temario-n2
 
-1.2 Herramientas de uso e instalación 
+1.2 Herramientas y entornos de ejecución 
+
+.. class:: temario-n2
+
+1.3 Instalación e inicialización del servidor
 
 
 
@@ -114,25 +118,25 @@ Temario
 1.1. Características generales de Tryton
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Tryton es una plataforma para aplicaciones de propósito general. Puede utilizarse para desarrollar sistemas con diferentes objetivos: ERP para empresas, software para establecimientos de salud (como GNU Health) o para universidades, tiendas virtuales para ventas on-line, etc.
+Tryton es una plataforma para aplicaciones de propósito general. Puede utilizarse para desarrollar sistemas con diferentes objetivos: ERP para empresas u organizaciones, software para establecimientos de salud (como GNU Health) o para universidades, tiendas virtuales para ventas on-line, etc.
 
 Características
 ---------------
 
-**. Escrito en Python**
+**. Escrito en Python**: Para ejecutar Tryton (versión 4.4) se requiere Python 2.7.9 o superior.
 
 **. Modular**
 
 **. Arquitectura de tres capas**
 
-- Cliente de escritorio en GTK (tryton) y cliente web en javascript (sao, en desarrollo)
+- Cliente de escritorio en GTK (tryton) y cliente web en javascript (sao)
 - Servidor (trytond)
-- Gestor de base de datos (DBMS): PostgreSQL (también SQLite y MySQL)
+- Gestor de base de datos (DBMS): PostgreSQL (también soporta MySQL)
 
 
 
-1.2. Herramientas de uso e instalación 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.2. Herramientas y entornos de ejecución 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Es recomendable utilizar algunas herramientas que facilitan la instalación y gestión de Tryton
 
@@ -156,13 +160,21 @@ Instalación de *pip* y *virtualenvwrapper*
 ------------------------------------------
 
 En primer lugar podemos instalar el paquete *pip* que trae el sistema operativo.
-Luego podemos usar *pip* para instalar *virtualenvwrapper*
+Luego podemos usar *pip* para instalar *virtualenvwrapper*.
 
 ::
 
-  $ sudo apt-get install python-pip
+  # apt-get install python-pip
 
   $ pip install --user virtualenvwrapper
+
+Si se quiere utilizar Python 3 en un sistema que por defecto trae Python 2, los comandos a ejecutar serían:
+
+::
+
+  # apt-get install python3-pip
+
+  $ pip3 install --user virtualenvwrapper
 
 
 .. sidebar:: Uso de pip
@@ -199,17 +211,37 @@ De esta manera, en el *home* tendremos dos carpetas:
 - *$HOME/.virtualenvs/*:
     los entornos virtuales creados con *virtualenv[wrapper]*
 
-Creación del entorno e instalación de Tryton
---------------------------------------------
+.. sidebar:: Incorporar .local/bin al PATH
 
-Se crea el entorno virtual, al que llamamos, por ejemplo, *tryton-3.4*:
+    En algunas circunstancias podría ocurrir que los comandos de *virtualenv* o *virtualenvwrapper*
+    no se encuentren disponibles para ser ejecutados porque la carpeta *.local/bin* del *home*
+    no está incluida en la ruta PATH de los ejecutables.
+    En esos casos puede ser necesario editar el archivo ~/.profile y agregar la línea:
+    
+    PATH="$HOME/.local/bin:$PATH"
+    
+    Luego, para que tome esta nueva configuración en línea de comandos, ejecutar:
+    
+    $ source ~/.profile
+
+
+Creación del entorno
+--------------------
+
+Se crea el entorno virtual, al que llamamos, por ejemplo, *tryton-4.4*, pero podría tener cualquier otro nombre:
 
 ::
 
-  $ mkvirtualenv tryton-3.4
-  (tryton-3.4)$ pip install trytond==3.4.3
+  $ mkvirtualenv tryton-4.4
+  (tryton-4.4)$ pip install psycopg2==2.7.3
   
-Al crear el entorno virtual el comando *mkvirtualenv* también activa este entorno: el prompt de la consola indica **(tryton-3.4)$**, es decir que antepone el nombre del entorno en el que nos encontramos.
+Al crear el entorno virtual el comando *mkvirtualenv* también activa este entorno: el prompt de la consola indica **(tryton-4.4)$**, es decir que antepone el nombre del entorno en el que nos encontramos.
+
+En este punto ya se puede empezar a instalar paquetes por medio de *pip*.
+
+Hay que tener en cuenta que *pip* permite indicar cuál es la versión del paquete que se desea instalar. Basta con escribir dos veces el signo de igual (==) y a continuación la versión, todo junto, sin espacios intermedios.
+
+Si no se indicara versión y solamente se escribiera el nombre del paquete, entonces se entiende que debe instalarse la última versión. Hay que tener presente esto, porque no siempre querremos instalar la última versión de un paquete.
 
 .. topic:: *pip* dentro de un entorno virtual
 
@@ -222,73 +254,97 @@ Al crear el entorno virtual el comando *mkvirtualenv* también activa este entor
     Es importante chequear cuáles son las dependencias para ejecutar Tryton
     en determinadas condiciones. Por ejemplo, para ejecutarlo en combinación
     con el gestor PostgreSQL es necesario instalar el paquete *psycopg2*
+    (se puede utilizar *pip*)
     
     Para una referencia completa, dentro de la carpeta del servidor Tryton leer
     las indicaciones del archivo *INSTALL*
     
-
-
-Instalación de módulos
-----------------------
-
-Pueden instalarse módulos de Tryton, por ejemplo:
-
-::
-
-  (tryton-3.4)$ pip install trytond_account==3.4.2
-
-Esto instala el módulo *account* en su versión 3.4.2, junto con sus dependencias: *company, currency, country, party*, dentro de la carpeta *modules* del servidor *trytond*, en el entorno virtual. Es decir que en este caso instalamos cinco módulos.
-
 Para comenzar a trabajar en un entorno de python y dejar de trabajar en él utilizamos los comandos *workon* y *deactivate*
 
 ::
 
-  $ workon tryton-3.4
-  (tryton-3.4)$ ...
-  (tryton-3.4)$ deactivate
+  $ workon tryton-4.4
+  (tryton-4.4)$ ...
+  (tryton-4.4)$ deactivate
   $
 
 El paquete *virtualenvwrapper* ofrece varios comandos útiles, uno de los cuales es *cdsitepackages*, que permite posicionarse fácilmente en la carpeta donde se instalan los paquetes y módulos de Tryton:
 
 ::
 
-  (tryton-3.4)$ cdsitepackages
-  (tryton-3.4)~/.virtualenvs/tryton-3.4/lib/python2.7/site-packages$
+  (tryton-4.4)$ cdsitepackages
+  (tryton-4.4)~/.virtualenvs/tryton-4.4/lib/python3.5/site-packages$
 
-El comando *pip list* también permite ver los paquetes instalados
+El comando *pip list* permite ver los paquetes instalados. También se puede utilizar *pip freeze*.
 
 ::
 
-  (tryton-3.4)$ pip list
+  (tryton-4.4)$ pip list
   Genshi (0.7)
-  lxml (3.4.4)
-  pip (6.1.1)
-  polib (1.0.6)
-  psycopg2 (2.6)
-  python-dateutil (2.4.2)
-  python-sql (0.6)
-  pytz (2015.2)
-  relatorio (0.6.1)
-  setuptools (15.0)
-  six (1.9.0)
-  trytond (3.4.3)
-  trytond-company (3.4.1)
-  trytond-country (3.4.1)
-  trytond-currency (3.4.1)
+  lxml (4.0.0)
+  pip (9.0.1)
+  polib (1.0.8)
+  psycopg2 (2.7.3.1)
+  python-dateutil (2.6.1)
+  python-sql (0.9)
+  relatorio (0.7.0)
+  setuptools (36.5.0)
+  six (1.11.0)
   [...]
 
-También es posible eliminar todo el entorno:
+Finalmente, si quisiéramos también podríamos eliminar todo el entorno junto con los paquetes instalados:
 
 ::
 
-  $ rmvirtualenv tryton-3.4
+  $ rmvirtualenv tryton-4.4
+
+El efecto de este comando sería borrar la subcarpeta *.vitualenvs/tryton-4.4*, con todo su contenido.
+
+
+1.3. Instalación e inicialización del servidor 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Instalación de módulos
+----------------------
+
+Los módulos oficiales de Tryton, como cualquier paquete o módulo Python, pueden instalarse con las diversas herramientas ofrecidas por ese lenguaje. Podrían incluso también descargarse y descomprimirse en algún lugar del sistema de archivos, y ejecutarse sin recurrir a herramientas de instalación.
+
+En nuestro caso veremos la instalación por medio de *pip*, a fin de aprovechar las ventajas y la comodidad que ofrece.
+
+Siempre dentro del entorno creado, para instalar la última versión del servidor de Tryton (*trytond*) bastaría con ejecutar.
+
+::
+
+  (tryton-4.4)$ pip install trytond
+
+Si se pretende instalar una versión específica, o si se prefiere indicar la versión de manera explícita, el comando tendría la forma siguiente:
+
+::
+
+  (tryton-4.4)$ pip install trytond==4.4.3
+
+Además del servidor, pueden instalarse otros módulos de Tryton, por ejemplo:
+
+::
+
+  (tryton-4.4)$ pip install trytond_account
+
+Esto instala el módulo *account* (cuentas contables), junto con sus dependencias: *company, currency, country, party*, dentro de la carpeta *modules* del servidor *trytond*, en el entorno virtual. Es decir que en este caso instalamos cinco módulos.
+
+.. sidebar:: Cuidado con las versiones
+
+    Las distintas versiones de Tryton se manejan por el tradicional esquema de tres números
+    separados por un punto: *mayor.menor.parche*. Por ejemplo, 4.4.1. Para toda instalación
+    de Tryton, debemos asegurarnos de que los dos primeros números (*mayor.menor*) coincidan
+    tanto en el servidor, como en el resto de los módulos y los clientes web o de Escritorio.
+    No se debe mezclar una versión 4.4.3 con una 4.2.1. Se puede ignorar el último de los tres
+    dígitos, pero los dos primeros deben coincidir.
 
 
 El archivo *trytond.conf*
 -------------------------
 
-Tryton podría funcionar sin un archivo *trytond.conf*. Pero normalmente querremos tenerlo.
-Podemos ubicarlo en cualquier lugar del sistema de archivos, y no debemos olvidar indicarle al servidor dónde encontrarlo, con la opción **-c**
+Algunas características de funcionamiento de Tryton pueden configurarse por medio de un archivo denominado *trytond.conf*, que tiene un formato semejante a los conocidos archivos *ini*. Consiste de secciones definidas entre corchetes [], a las que siguen entradas definidas por nombre = valor.
 
 ::
 
@@ -302,21 +358,47 @@ Podemos ubicarlo en cualquier lugar del sistema de archivos, y no debemos olvida
   
   [session]
   timeout=3600
-  super_pwd=V6imlhDMI0fiY
+
+Tryton podría funcionar sin un archivo *trytond.conf*. Pero normalmente querremos tenerlo.
+Es posible ubicarlo en cualquier lugar del sistema de archivos, y no hay que olvidar indicarle al servidor dónde encontrarlo, con la opción **-c**
+
+Por ejemplo, este archivo podría guardarse dentro de */etc/*, en el sistema de archivos de GNU/Linux. Por lo tanto, para invocarlo al ejecutar el servidor hay que indicar: *-c /etc/trytond.conf*
 
 
-La contraseña de super usuario
-------------------------------
+Creación e inicialización de la base de datos
+---------------------------------------------
 
-En el archivo de configuración la contraseña debe estar encriptada.
-
-Para encriptar una contraseña podemos ejecutar el siguiente comando en una terminal. El resultado que se obtiene es el que hay que agregar en el archivo de configuración, como valor de *super_pwd*.
+Para poder utilizar la base de datos será necesario tener un usuario. Este usuario será el que se configurará en *trytond.conf*. En nuestro caso, utilizamos PostgreSQL, y llamaremos *dbadmin* al usuario. Desde la línea de comandos, ejecutar:
 
 ::
 
-  $ python -c 'import getpass,crypt,random,string;
-    print crypt.crypt(getpass.getpass(),
-    "".join(random.sample(string.ascii_letters + string.digits, 8)))'
+  $ createuser -s -P dbadmin
+
+A continuación se debe crear la base de datos, llamada en este caso 'tryton44'
+
+::
+
+  $ createdb -U dbadmin --encoding=UTF-8 tryton44
+
+Es necesario editar el archivo *trytond.conf*, en la entrada *uri* de la sección *[database]*. Allí hay que indicar el usuario y contraseña que se ha definido.
+
+::
+
+  uri=postgresql://dbadmin:miclave@localhost:5432
+
+El siguiente paso es inicializar la base de datos 'tryton44'. Para esto es necesario tener activado el entorno virtual. El parámetro *-p* hará que al finalizar este proceso se pida una contraseña de usuario *admin*.
+
+Hay que tener en claro que este usuario *admin* es el usuario administrador del sistema Tryton cuya base de datos estamos inicializando. Es distinto del usuario *dbadmin*, de PostgreSQL.
+
+::
+
+  (tryton-4.4) $ trytond-admin -v -p -c /etc/trytond.conf -d tryton44 --all
+
+Al terminar, estaremos en condiciones de ejecutar el servidor Tryton
+
+::
+
+  (tryton-4.4) $ trytond -c /etc/trytond.conf -v -d tryton44
 
 
 2. Un módulo básico
@@ -336,7 +418,7 @@ Ejemplo de *tryton.cfg*
 ::
 
     [tryton]
-    version=3.4.2
+    version=4.4.1
     depends:
         company
     xml:
