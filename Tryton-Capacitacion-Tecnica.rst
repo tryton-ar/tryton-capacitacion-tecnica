@@ -629,7 +629,7 @@ El nombre de archivo al que se alude está alojado por defecto en una subcarpeta
 
 .. code-block:: xml
 
-    <tree string="Opportunities">
+    <tree>
         <field name="party"/>
         <field name="description"/>
         <field name="start_date"/>
@@ -656,7 +656,7 @@ Definición de *view/opportunity_form.xml*:
 
 .. code-block:: xml
 
-    <form string="Opportunity">
+    <form>
         <label name="party"/>
         <field name="party"/>
         <label name="description"/>
@@ -739,13 +739,9 @@ En ambos casos, la lista de campos que se envía al servidor se especifica por m
 
     @fields.depends('party')
     def on_change_party(self):
-        cuit = None
+        self.cuit = None
         if self.party:
-            cuit = self.party.cuit
-
-        return {
-            'cuit': cuit,
-        }
+            self.cuit = self.party.cuit
 
 **Ejemplo de on_change_with**: *end_date* toma el valor de *start_date* pero con siete días más
 
