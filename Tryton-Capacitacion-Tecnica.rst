@@ -433,7 +433,7 @@ Es necesario editar el archivo *trytond.conf*, en la entrada *uri* de la secció
 
   uri=postgresql://dbadmin:miclave@localhost:5432
 
-El siguiente paso es inicializar la base de datos 'tryton44'. Para esto es necesario tener activado el entorno virtual. El parámetro *-p* hará que al finalizar este proceso se pida una contraseña de usuario *admin*.
+El siguiente paso es inicializar la base de datos 'tryton44'. Para esto es necesario tener activado el entorno virtual. El comando a utilizar es *trytond-admin*. El parámetro *-p* hará que al finalizar este proceso se pida una contraseña de usuario *admin*.
 
 Hay que tener en claro que este usuario *admin* es el usuario administrador del sistema Tryton cuya base de datos estamos inicializando. Es distinto del usuario *dbadmin*, de PostgreSQL.
 
@@ -441,7 +441,7 @@ Hay que tener en claro que este usuario *admin* es el usuario administrador del 
 
   (tryton-4.4) $ trytond-admin -v -p -c /etc/trytond.conf -d tryton44 --all
 
-Al terminar, estaremos en condiciones de ejecutar el servidor Tryton
+Al terminar, estaremos en condiciones de ejecutar el servidor Tryton, para lo cual se utiliza el comando *trytond*. Con el parámetro *-c* se indicará la ubicación del archivo de configuración. Por su parte, *-v* (verbose) hará que el comando vaya generando información en pantalla, mientras que *-d* permitirá indicar la base de datos a utilizar.
 
 ::
 

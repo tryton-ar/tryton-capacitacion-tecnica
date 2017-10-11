@@ -189,7 +189,7 @@ endobj
 << /Outlines 51 0 R /PageLabels 128 0 R /PageMode /UseNone /Pages 99 0 R /Type /Catalog >>
 endobj
 50 0 obj
-<< /Author () /CreationDate (D:20171011111543+03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20171011111543+03'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20171011112756+03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20171011112756+03'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Tryton: Capacitaci\363n t\351cnica) /Trapped /False >>
 endobj
 51 0 obj
@@ -1886,7 +1886,7 @@ Q
 endstream
 endobj
 108 0 obj
-<< /Length 5028 >>
+<< /Length 5586 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -2013,7 +2013,7 @@ Q
 q
 1 0 0 1 62.69291 385.2236 cm
 q
-BT 1 0 0 1 0 26 Tm 2.102485 Tw 12 TL /F1 10 Tf 0 0 0 rg (El siguiente paso es inicializar la base de datos 'tryton44'. Para esto es necesario tener activado el) Tj T* 0 Tw 1.61186 Tw (entorno virtual. El par\341metro ) Tj /F3 10 Tf (-p ) Tj /F1 10 Tf (har\341 que al finalizar este proceso se pida una contrase\361a de usuario) Tj T* 0 Tw /F3 10 Tf (admin) Tj /F1 10 Tf (.) Tj T* ET
+BT 1 0 0 1 0 26 Tm 2.102485 Tw 12 TL /F1 10 Tf 0 0 0 rg (El siguiente paso es inicializar la base de datos 'tryton44'. Para esto es necesario tener activado el) Tj T* 0 Tw .39811 Tw (entorno virtual. El comando a utilizar es ) Tj /F3 10 Tf (trytond-admin) Tj /F1 10 Tf (. El par\341metro ) Tj /F3 10 Tf (-p ) Tj /F1 10 Tf (har\341 que al finalizar este proceso) Tj T* 0 Tw (se pida una contrase\361a de usuario ) Tj /F3 10 Tf (admin) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
@@ -2044,14 +2044,13 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 302.0236 cm
+1 0 0 1 62.69291 266.0236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Al terminar, estaremos en condiciones de ejecutar el servidor Tryton) Tj T* ET
+BT 1 0 0 1 0 38 Tm .884985 Tw 12 TL /F1 10 Tf 0 0 0 rg (Al terminar, estaremos en condiciones de ejecutar el servidor Tryton, para lo cual se utiliza el comando) Tj T* 0 Tw 2.34311 Tw /F3 10 Tf (trytond) Tj /F1 10 Tf (. Con el par\341metro ) Tj /F3 10 Tf (-c ) Tj /F1 10 Tf (se indicar\341 la ubicaci\363n del archivo de configuraci\363n. Por su parte, ) Tj /F3 10 Tf (-v) Tj T* 0 Tw .097126 Tw /F1 10 Tf (\(verbose\) har\341 que el comando vaya generando informaci\363n en pantalla, mientras que ) Tj /F3 10 Tf (-d ) Tj /F1 10 Tf (permitir\341 indicar) Tj T* 0 Tw (la base de datos a utilizar.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 268.8236 cm
+1 0 0 1 62.69291 232.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -2072,7 +2071,7 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 260.8236 cm
+1 0 0 1 62.69291 224.8236 cm
 Q
 q
 1 0 0 1 56.69291 42.51969 cm
@@ -8693,59 +8692,59 @@ xref
 0000074534 00000 n
 0000080736 00000 n
 0000086512 00000 n
-0000091598 00000 n
-0000099195 00000 n
-0000111223 00000 n
-0000119796 00000 n
-0000132515 00000 n
-0000151586 00000 n
-0000161341 00000 n
-0000175286 00000 n
-0000192411 00000 n
-0000204142 00000 n
-0000214836 00000 n
-0000232737 00000 n
-0000244426 00000 n
-0000248163 00000 n
-0000259333 00000 n
-0000269579 00000 n
-0000285421 00000 n
-0000302531 00000 n
-0000307525 00000 n
-0000308996 00000 n
-0000309350 00000 n
-0000309388 00000 n
-0000309426 00000 n
-0000309464 00000 n
-0000309502 00000 n
-0000309540 00000 n
-0000309578 00000 n
-0000309616 00000 n
-0000309654 00000 n
-0000309692 00000 n
-0000309731 00000 n
-0000309770 00000 n
-0000309809 00000 n
-0000309848 00000 n
-0000309887 00000 n
-0000309926 00000 n
-0000309965 00000 n
-0000310004 00000 n
-0000310043 00000 n
-0000310082 00000 n
-0000310121 00000 n
-0000310160 00000 n
-0000310199 00000 n
-0000310238 00000 n
-0000310277 00000 n
-0000310316 00000 n
-0000310355 00000 n
-0000310394 00000 n
+0000092156 00000 n
+0000099753 00000 n
+0000111781 00000 n
+0000120354 00000 n
+0000133073 00000 n
+0000152144 00000 n
+0000161899 00000 n
+0000175844 00000 n
+0000192969 00000 n
+0000204700 00000 n
+0000215394 00000 n
+0000233295 00000 n
+0000244984 00000 n
+0000248721 00000 n
+0000259891 00000 n
+0000270137 00000 n
+0000285979 00000 n
+0000303089 00000 n
+0000308083 00000 n
+0000309554 00000 n
+0000309908 00000 n
+0000309946 00000 n
+0000309984 00000 n
+0000310022 00000 n
+0000310060 00000 n
+0000310098 00000 n
+0000310136 00000 n
+0000310174 00000 n
+0000310212 00000 n
+0000310250 00000 n
+0000310289 00000 n
+0000310328 00000 n
+0000310367 00000 n
+0000310406 00000 n
+0000310445 00000 n
+0000310484 00000 n
+0000310523 00000 n
+0000310562 00000 n
+0000310601 00000 n
+0000310640 00000 n
+0000310679 00000 n
+0000310718 00000 n
+0000310757 00000 n
+0000310796 00000 n
+0000310835 00000 n
+0000310874 00000 n
+0000310913 00000 n
+0000310952 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\242\347b\374\357\0218}\213\371\206\243W\302\0102) (\242\347b\374\357\0218}\213\371\206\243W\302\0102)]
+ [(\312\002.\376\005\210\356\320\3176\015\372\330r\007\321) (\312\002.\376\005\210\356\320\3176\015\372\330r\007\321)]
  /Info 50 0 R /Root 49 0 R /Size 157 >>
 startxref
-310433
+310991
 %%EOF
