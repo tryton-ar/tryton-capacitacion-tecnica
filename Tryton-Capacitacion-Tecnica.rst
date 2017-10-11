@@ -15,7 +15,7 @@ Temario
 
 .. class:: temario-n1
 
-1\. Presentación
+1\. Instalación
 
 
 .. class:: temario-n2
@@ -112,8 +112,8 @@ Temario
 
 
 
-1. Presentación
-===============
+1. Instalación
+==============
 
 1.1. Características generales de Tryton
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -123,7 +123,7 @@ Tryton es una plataforma para aplicaciones de propósito general. Puede utilizar
 Características
 ---------------
 
-**. Escrito en Python**: Para ejecutar Tryton (versión 4.4) se requiere Python 2.7.9 o superior.
+**. Escrito en Python**: Para ejecutar Tryton (versión 4.4) se requiere Python 2.7 o superior.
 
 **. Modular**
 
@@ -299,6 +299,53 @@ Finalmente, si quisiéramos también podríamos eliminar todo el entorno junto c
   $ rmvirtualenv tryton-4.4
 
 El efecto de este comando sería borrar la subcarpeta *.vitualenvs/tryton-4.4*, con todo su contenido.
+
+
+'pyenv' y las versiones de Python
+---------------------------------
+
+Es posible que el sistema donde se intenta instalar Tryton tenga alguna versión antigua del lenguaje Python. Por eso es importante verificar en la página oficial, o en la documentación de los paquetes disponibles para descarga, cuál es la versión mínima de Python necesaria para ejecutar el servidor de Tryton o el programa cliente. 
+
+Para los casos en que el sistema no tenga disponible una versión adecuada, existe una herramienta llamada *pyenv*, que se puede utilizar en combinación con *virtualenv*.
+
+*pyenv* permite instalar distintas versiones de Python y activar cualquiera de ellas en distintas circunstancias, según se requiera.
+
+En primer lugar se necesita instalar *pyenv* siguiendo las instrucciones de su página oficial: https://github.com/pyenv/pyenv. Una vez disponible en nuestro sistema, podemos solicitarle que instale una determinada versión de Python, por ejemplo:
+
+::
+
+  $ pyenv install 3.6.0
+
+A continuación es posible activar esta versión de Python para todo el sistema, con el comando
+
+::
+
+  $ pyenv global 3.6.0
+
+Finalmente, si se quiere utilizar esta versión de Python para crear el entorno virtual, hay que recurrir a *virtualenv*. Por ejemplo, dentro de la carpeta *~/.virtualenvs/*, que es donde suelen localizarse los entornos virtuales, se puede crear el entorno *tryton-4.4*
+
+::
+
+  $ virtualenv ~/.virtualenvs/tryton-4.4
+
+Si la versión de Python deseada fue activada correctamente con *pyenv*, el comando *virtualenv* creará el entorno virtual utilizando esa versión de Python.
+
+Cuando se quiera activar el entorno virtual, simplemente hay que ejecutar el comando *activate*:
+
+::
+
+  $ source ~/.virtualenvs/tryton-4.4/bin/activate
+
+Finalmente, si se usó el comando *pyenv global* para activar una nueva versión de Python, pero luego se desea volver a dejar la versión original del sistema, hay que ejecutar:
+
+::
+
+  $ pyenv global system
+
+.. sidebar:: Entender pyenv
+
+    Se recomienda estudiar la documentación para comprender las distintas posibilidades
+    y herramientas de configuración que ofrece *pyenv*.
 
 
 1.3. Instalación e inicialización del servidor 

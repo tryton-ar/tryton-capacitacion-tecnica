@@ -1,8 +1,8 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 8 0 R /F5 10 0 R /F6 17 0 R 
-  /F7 30 0 R /F8 35 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 8 0 R /F5 10 0 R /F6 19 0 R 
+  /F7 32 0 R /F8 37 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
@@ -14,338 +14,348 @@ endobj
 << /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 5 0 obj
-<< /Contents 97 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 100 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 6 0 obj
 << /A << /S /URI /Type /Action /URI (mailto:contacto@silix.com.ar) >> /Border [ 0 0 0 ] /Rect [ 293.5123 753.0236 391.4623 765.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 7 0 obj
-<< /Annots [ 6 0 R ] /Contents 98 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 6 0 R ] /Contents 101 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 8 0 obj
 << /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
 endobj
 9 0 obj
-<< /Contents 99 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 102 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 10 0 obj
 << /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
 endobj
 11 0 obj
-<< /Contents 100 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 103 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 12 0 obj
 << /A << /S /URI /Type /Action /URI (https://pypi.python.org) >> /Border [ 0 0 0 ] /Rect [ 79.89291 583.4236 178.4912 595.4236 ] /Subtype /Link /Type /Annot >>
 endobj
 13 0 obj
-<< /Annots [ 12 0 R ] /Contents 101 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 12 0 R ] /Contents 104 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 14 0 obj
-<< /Contents 102 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 105 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 15 0 obj
-<< /Contents 103 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/pyenv/pyenv) >> /Border [ 0 0 0 ] /Rect [ 62.69291 544.8236 200.5429 556.8236 ] /Subtype /Link /Type /Annot >>
 endobj
 16 0 obj
-<< /Contents 104 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /Annots [ 15 0 R ] /Contents 106 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 17 0 obj
-<< /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F6 /Subtype /Type1 /Type /Font >>
+<< /Contents 107 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 18 0 obj
-<< /Contents 105 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 108 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 19 0 obj
-<< /Contents 106 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F6 /Subtype /Type1 /Type /Font >>
 endobj
 20 0 obj
+<< /Contents 109 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+21 0 obj
+<< /Contents 110 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+22 0 obj
 << /BitsPerComponent 8 /ColorSpace /DeviceRGB /Filter [ /ASCII85Decode /FlateDecode ] /Height 25 /Length 1431 /Subtype /Image 
   /Type /XObject /Width 325 >>
 stream
 Gb"/js%a;@(r608l%D%u'/L@T9Ur])7"uBW/t;a41JTkEg]YY?3[`&S_<_D>AeotX`se8O/HpHs["Wr0Y@$^EFd`48RgI1LbkNs%kBc7G;;)Mh_PPj3q;h*/:S7@bY4%.XpRq7LmQQ4FqEWC0UVjOsmbTIb2nD%gG'/7h+?9EQq!OaASjDrJ&`I'ij0T>HF7$Q\'XEetJfqY_!G-cETH:r^i`Q%"(*n(?ZG1SUCZidCjr.ih^72f'[R`+I43u4tLgF1c6CfI3_6P/kKtm)iTt,oGU;-.4IJ5Zlq?oT0&Gkf>:gcGGgU,q=[@>tJirI9JC491qjT!+erns/H;>='((F=c;*E!&,GtC/PSHT2V3q2Js+R?[PP?Z9Ye/?X=+EI;_JR:sBZe;_6\@QEbP[i926duu>ed/\/d3ZT<@rK'6fmYrm]VnU*1RX[Z.2LDNa^JTIK*!Q_$VpQAb7'DnTp6O:iS[3Jeo0<S"b6SNda6P77Hr*\c$>fPQL?`fro*-D=*>Mk"o3EK&%kT5K!r,6c9G[KAa=Dk%3M,",9]s'Du71XqmO.s)^#mKaSFC&6ckAJU;HYb^DilE<q?\"F[gB_?CXrG<'%q%^[K`(0C9RCE.UJ0T/>(t*V-e3J?cDS[J;@fGceEojfjA`(XBE('l8>oY0Q.%PdIHbK!`@5T6gusi7t6TV#L5L_d8Bs8_Yn)W'42F*i8(Nn+b;>c^\l<SIm+r.<K/9@_ToLe&SAU)p]cD96ZXt6WPMA%pI,!m3E.TEL.:o_'qqR'5isK4HiRprY]U[WeYr@*9;J!;cYq/?dRmo0]=bQfM5aFK>i3CF[gB\6!R6<R*Kp83cK(LF(54m%Na9;cZHcp?%e\[2FK&M"HXsh8tSG3C:M2O83c;K'ghoK)qD9k!d-tQ&5eBN"-;c\>RIlqPg0'a$YA:r!%GeQ(lCq%\&PSr:T-&e:+99-AGr`RpP`"N;&FFFEh(\G%!5`h4)sU8.CM&jel5Xqa.,D;jf9tG)kU*m>%<iDjTH]f\),7'^MLLf?\KC:KKFi!lVHsh3Ke,he/?X[$%GlKf-r#n=^"/+mo?2.)lY\58Wa>,%JB0?:UVEs2!Lr<.=&4)>Z=gTl6Mj.\A3bZ/mj2NoX"@=qt?9KI!\$,b\Bse,R4pJn"!D1O`d>BM!k&iC\/eu`7Op-SKlgJ`S?M8,C4qVAcufkNRWP:(Lj<&c*GXnE?3]5a"dWUcY3:n+@rA;p_fZq(PK_Vc^*WDo-,j5Kt(j\;(<R_(_k>%_[PhS0u%K&(*H.[+ePK$O?2nV(sF3fl"mh3)4K+Rj<KI-^uDiX"r.rmm)S:/Hei05':"78W&1^Rks^\V+:=TRnM/Af%#a"-mTS$^X97D$RIlLE-[bt8OAQ'Ai\C=kIQHCg*I[3q*glFjq8P9.&4)E%_]T5Z'E/3J7a#Z~>endstream
 endobj
-21 0 obj
+23 0 obj
 << /BitsPerComponent 8 /ColorSpace /DeviceRGB /Filter [ /ASCII85Decode /FlateDecode ] /Height 27 /Length 2501 /Subtype /Image 
   /Type /XObject /Width 220 >>
 stream
 Gb"/*#uac('`K7mh/L1N<)DSQXf0m`TX[lY[*oU%FkjfJD+?mr<_':O!ltkk80ER+&j\hs+:03ACa,@A/2!2gV2Y*eDLHs)P4oTP'J/k$I.QL]E6l'JpO;SdF$an3/,_XB*^"]:i*e!<QPT?f.Kp->GZ]r2.2<XEKgWS>_ZMio"nNBLm?P)5lFV=D%4iWhGse%H^=6jZ/Ar<d@97VN>/Th*N]0)%"r>QEX(g$g"5>l[GutJ@I/R&^#?LLlhtrP.ItfHa.t@f9Wp@T4Z7^9sh(WI%#ciBkY5RMF1<YshK)hE$3-luJIc0=_BJc0XWiG@LlH77AK>F54lZG6/N$TbrC:.6E<(\DK16QShbD=+WKIsNa;',-5Igll+En9cNZqeceb8V?<R[]e9R[S24Bk_;KQRD_574+4\OTX\j84CR,EcTT]nN##3.i\dM[5'^e?S;*0Y^X7&(mc,c7h6\frqncZFuDFXVP[ss^^\H`p[?E4##:^GESBJF_.SDiP.nokh;*-W>o9rHI+dM#`'c!TH9fVdr25)Q''&#mO23t-8;tOd;Y!]=g=gB%Ub,e_Mn@NR6cdBohVN:@XJ_toX0XUts4I$^>KO1Wfcf=`DB08WLCtC:ZY\l(j:qYe6@:nDMbb<WIeChu##?XS[eSW4#miUug*1*>AW;\/i*Lh[4\frY5.*4mp?\1f3@W.5*o,rA3l?7.7)uFd)`(EULcm[kZ@B@P/Ec7r-;O%pFF\BrFo7VbZdXT4%ZA),&0$(VfFt#)eueYao8@.heoO9[k`52Go]44ShKVrYXNl%uFF1g^K/9'q4,b*"I7kP*k;^)#?GE)u35KjG(j;OR>;FXUTrdrm.K?nP:tD^O7?+:IXdq[XnFl6R`Y=Xj>C;Hu7/f8CU3]5!Ci=6qW2M-3(Ca)"4$2PE3>lNm-Nai#=QZkV(`P&$]";\T>2Sdl&Gr/LIU=aO(WJk[^2o&?jhA`Ujk[F[;"pX?SgEf3&c6s,+S=+$XOQ<QZ06P,XZi5e\Yj$YcSd5m>G-&cCZPnC@_CAuZAt.%=deTg<Z>rmh;6o@$i[eboa3_o*72X\h:74WK5q"eP/Ul7BB['GnMt%k1$5;'[&K)G`\)7<(_IhGf@OYiH0h9UC/IPdIJOZ%XK/DNpC$g<&/&("Po]24\[,QSU*@Zc;hU"KJOH-j15ebWFSB<S!n">"@`P_```$Cnha=]TjDcjpcShbVS.rr_R%8gJCn.R\(iXDY'bu[u@b=[QV<<`t6m"SOMnaRbM%0]u8+_Cbr0>HlO]%9)"l5Ls5$L]Q9I@c'n)!=%AOrgcs)cBlo@O5'&\SUuBQW,=KgMZd?P@4X-#9]?M@3E&&CleR2g@c(.67/'SBffeaVN=bp@W4YGV$l!:P+NG4c4T$[daHge<lGu6d/;6"XfR(73I=gV.+8)Z2L#NORqY\&Y1MOGq<th/lioiM!iG%J"V(M0'J:Sa'11[BM_BGFEAX0(9'nZM6q-UIl'<8XfCVF';NFdSsPd67bZ-ZJZB1(@cNSg"%cY%B?^iGF]*N]R$XD%X3$Ss2mSE%3@XWg:qT5S-9@;J>FfKM/Qos4<(Vu5bSatQ*Fk.(g5u@a$F/-1N*_l\&`&d*r]od@\q!X6SXd3H`uupt$9\ma7W^Iq,'gVo\ZYUN?#-oCf5s'^3&@`l-RX\.[%3CF*'(BRl&rR2iTMq(_Ja<oj$i<ipQO#Xb*(2uH0UV%_1=Vp'T>Op@@!*nj%W90II^q(*p&;((8WPh>1C>o/!dM]P2hiZY:"8E]\td''eK`%K1t!+^3hqPU*Ffh`^WI>pW.F`0mq[:2&haq8\a)nd3GDa7Arp"2kE'U_EnGF92SOu=P_NXKt]WDOronb:fH+T<r4.@>oso]cB/k&k2qhhG3QV7*'JnREkK;Wq#\$`+ocqk%>sTHh2*lq`uk.\DGFM%++el%DTle$b_TksPAK8R:5UY4D)aBWM%hO+Z6`-#*s7P/EK]@J/E`f`H?sm$R*'QUVl-B=586H'(j+mKN_A;H:a"fi8Hskc^23C]`&*m/V5^F8M\fe6d,q)]5c8NX-OU:id<(#)2)R5u7FC?J79k#(oKdb=VXD%*1a=6_l?\Tu2f/:S:4WALn?=V4G2*kj_3'>$!cSe&CeIEZ_-g*>980nkZ.YCO\Y6B0'+kfg*#qXAnsoW"3&sdm<a/d<h2^7L3s^FkS=cELng%oEil)9R>-4*<8r;s_.Oke4'T#5+I=44*mES<"pO\-g$_N*&OQa(s,9sP#Z?#dF-ac>d8P2Sf$AF=nM0JCC#mgnE%1P`JUeiK=rE^&]8NUq_JuXP)Xr7BqHN%_sD6%Me,^<GcW4]-6;f5EIF_ZmO=6P>fF_5ele!"slac!0"Ss+?6[s&;9`)Z_ZH>Nd#&BhRdA/OkH*<s#'aVVnIqhV:*.%>5Q%/Gqircc/P>qTjKSm77#Gs+$7a>\3ci0*0;Y'[_`$2";o`=l,DX4]#2@XIP-DG#1@o&.?:#7hln#Cchr"rYD~>endstream
 endobj
-22 0 obj
+24 0 obj
 << /BitsPerComponent 8 /ColorSpace /DeviceRGB /Filter [ /ASCII85Decode /FlateDecode ] /Height 25 /Length 1605 /Subtype /Image 
   /Type /XObject /Width 254 >>
 stream
 Gb"/gs%aSF*68'mpB?j+)beUMp;9R_=j0?3@n,UI?VIni`V>@Z/qt5Yk=i_1aIId.)h`CAf@%NYd-oSPde9iWlh1)X-o=1<UO9*f)Dl&aqH5I0-S6n]BO1KtH0*/s:YlVmoNq:aF)\LE6Qcrd5,6$<mZ-]N;,<,6IZ(-8;3^^]LcRUZ\q[#5Go&4pB^ju-XnQ?]C@pIAU<!?EmXF%S2PS@+Q8tVQ]*f^(PN8nuq\W2kJ-PcSe^r?><Y[8^'b]N??Dh;hkPH3L!1]&Y:a5@3$9<Rr\\lK=A.KO>cb+bdLdT&DA:hY>WN#,I+R&Fm]jB"E@;20M\_r77E]BRV6b"f\14U#%D/gXM:Q=1'IBS-5)[\#L^Q@D6hq[#Bio4Dm&qN%]N@lNsUVqZd5nLp2;tHgrp9!a@%Ra0)5%5VL+[81U%u,-F7o>L$1#2ehjlPTV2?,B$aF(oi?s2s8_?(Pq%Yps[VaI0)N*r`iY3s8V1,B6udasuWHsQ>AF]iG#`=&m.6Ps/Er&"=a47/R5Yi4<(;ruPp'ht;Z-L50Oo)1*3:d7s'o%j/c2Np=G5/SZI$E4/r?bep.%qg>B((16HFCHqUZ+dqi2OfErK_^e<Wj(.Vc$$,%;h%q/VKUZENAj)4o_O9Kq;fTB5/$Je?*-[WB%2jT;0t$#J+])u"8@-jqmbHSI!!&qiT^Z9o,0.eO<a?))M[cILVL.#!rgNkc>naR$jK"ER,d^]lBr/TUpn=.L"&:N=Z>ZSr0juqb>+9KleAl>MfUageOg"[*`6>"@QY.$q.t3(mdmF!#Eeh9N8%(ERk/Y=PEV2R]:En]D(;E"f^klT2*j"e32A9Y:pM$]d[Iq?]'tPI><c7oij.>62(Xo5`Lu;:g.R^mch!2tl*7"Oo>pi=#$u&<a^87VK9P1Yd]El&EdTCCqAU;Uqdt@h=k7+=$1k\a^Z=U@XCj^\,T#$]po\n40J]F+k,`i=IPKl)P4426rB.a=Ft:d_AoW"YQeA2p_+&=#?!>^1_-di:1RddV9L?;Vp#O.0.Sd$EMU_LI)]uh#=(fsA!mn_1ld]VtJ,\[bSE_$cn9\7%ZfX&K&g/81,P)9[]A3L#rl2rI3#n7BecFeF1DBB*4OR-d3tf\$N#RaG@6S,6332+%)4o:>B/76dMd$qXAZ7D'qtd_$d+))qSGqeSA$Xt?d<>Loc&(K$?@K0EgSQX1k)oJYN6O6mMoEL0:acHB_<l]`7.5P;o80kkLPjYr2!Ol7I@C1PJ]oc`XO_AF59>kUUJ\e`n"aX@(_H"c.^PbERGQe,O[pbAB/&41'bnae!f#b7Z<44+R1Jk,DJm>.j72X=eVAA'rr.A.^T1#dofh?DnE/n>b?UIMQ1oWY3,h-0SM&@>e#1[Z%#G"u%?BI@V%U["WDk@2adS]ggY:ISP/K%9^PcNL0-9_!pKHEl'B1]b]Dj"0)#2FPdEJT?+dFN"Q[:HGKc/GsR1$n@<pL+-Km'ZgCqc[+^m/rg7cjRi+oWj>%(K2tG:dk9U"9k0;2/O?2X^<&cMKP]a:h?/mhS:d5R+P\PBSU"K3>CcRe1b2!DHTh!5Cd?Oj(rEDDCFr:&:DC@7UM&JNsnWrr@o/>p]~>endstream
 endobj
-23 0 obj
-<< /Contents 107 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.0d9a77742783fa2755aab139dd3808e1 22 0 R /FormXob.5357092d9f7b1c1c0de5bc3b5b1d80ac 20 0 R /FormXob.de2fc72850aa0e2a936175d8ede269d6 21 0 R >> >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
-endobj
-24 0 obj
-<< /Contents 108 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
-endobj
 25 0 obj
-<< /Contents 109 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 111 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.0d9a77742783fa2755aab139dd3808e1 24 0 R /FormXob.5357092d9f7b1c1c0de5bc3b5b1d80ac 22 0 R /FormXob.de2fc72850aa0e2a936175d8ede269d6 23 0 R >> >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 26 0 obj
-<< /Contents 110 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 112 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 27 0 obj
-<< /Contents 111 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 113 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 28 0 obj
-<< /Contents 112 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 114 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 29 0 obj
-<< /Contents 113 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 115 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 30 0 obj
-<< /BaseFont /Symbol /Encoding /SymbolEncoding /Name /F7 /Subtype /Type1 /Type /Font >>
+<< /Contents 116 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 31 0 obj
-<< /Contents 114 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 117 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 32 0 obj
-<< /Contents 115 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /BaseFont /Symbol /Encoding /SymbolEncoding /Name /F7 /Subtype /Type1 /Type /Font >>
 endobj
 33 0 obj
-<< /Contents 116 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 118 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 34 0 obj
-<< /Contents 117 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 119 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 35 0 obj
-<< /BaseFont /Courier-Oblique /Encoding /WinAnsiEncoding /Name /F8 /Subtype /Type1 /Type /Font >>
+<< /Contents 120 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 36 0 obj
-<< /Contents 118 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 121 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 37 0 obj
+<< /BaseFont /Courier-Oblique /Encoding /WinAnsiEncoding /Name /F8 /Subtype /Type1 /Type /Font >>
+endobj
+38 0 obj
+<< /Contents 122 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+39 0 obj
 << /BitsPerComponent 8 /ColorSpace /DeviceRGB /Filter [ /ASCII85Decode /FlateDecode ] /Height 383 /Length 27572 /Subtype /Image 
   /Type /XObject /Width 901 >>
 stream
 Gb"0W$%*KL^&RUFW!J2'U0&37(N?5=<N9NAF_e+e>4$1/eo#B7[sIpqX0"&KYXFWSOXPs4O$J3u!SJ_B@"Nn163JT"O<jq55ka:=lPVHOk+$^;P+9Y`A3TJ6]^e*rcHJDsRGTfA^1Y^gjD"3+VKjtqau"=^'U_j0RQb<V[)oYO:Af(RJ#;;K'9X`(QbP=(NFu^0@U`eU@UeoM1hl:nq.iGc,8j*APb9FE0dRAOAMTFE;pGem1:D-GO\QED0n%37Bp330B::Yml6Q2K`5KU4`5KU4jI^/+UiFD.ROC.@cEuU\;<"=<7EmO>a>eJiOk,1`,F?]TM5D^XR$a8.R$a8.R!^a8RPsF*A`JKes2;drAl,"5$':.-UVY>7igXLg@U`eU@U`fpH6OXj0ekC;0ekC;0ekC;0ekC;0ekC;0ekC;0ekC;0ekC;0ekC;0ekC;0ekC;0ekC;0ekP`M=4+m0ekC;0ekC;3DJpQ7I+R1bLYR9@U`eU@U`eU@e/&+`u5"prspG\BT,n+S^5X?1GLU=0ekC;1"Arlq(qgDP>ESQ-71&d-71(;WQG-2kj^2bA'4R$M.>E^c,@Q=`5KU4`5E@1P.6lWqsF:#^L(ol7k^@&1OZPc&_R\l1,1L<0ekC;0f>k#io5IE]<?M3IX^<`+>mLE2;Y+#4`->o8#lXj!.[lk/kTe6hmIC`$`'(J.TplaLJoQ57f`SiTHJ5O6K@FJ7nFpE7qYPeQooXVE>/BQ!"'>T,rA59N)Uc[rgQ[3-@\!dif$II;#gRrW(:0Xcm[9rn6Pqk]O0R;&#7DZI"Q-V+HB3h30#s*!!!!&M2Mub,s)%gf:O6$7u]/V,u:*dIDT+G-ia5I'`Jb9-]F>SBRHL&!c`>EeA);Z-'"!5NWK1\5clAnNgBbAT/bQgh]4#'!WW3CI'1E8)9:X9T10e(!!%P4`5QHQS+SRnUAt8oBMucG!!!"DLc>_A!!!NA7f`Sii$%).!!!!]6lZ@1!.]i\UAt8on.9RR!!!!?,)u^)!5Lt?;#gRrG_e<d!!!!0&Ouj%!8o$[-ia5I4@C.m!!%P)LnaqM!:UP>'EA+5*[6UG!!'f%`)-L7!-j;Z$31&+%hV;4!!(q#i[=d,!'EXh"TSOQLPV]*!!)L"E>/BQ!$3>E!WW596c;h%!!%8"3!oWc!"TZ3!<<,X+lXmM!!#,L*!H<BJ;8rU!!!#g&9/Ba!!"&aNWK1\^dH%;!!!"DLc>_A!!!NA7f`Sii$%).!!!!]6lZ@1!.]i\UAt8on.9RR!!!!?,)u^)!5Lt?;#gRrG_e<d!!!!0&Ouj%!8o$[-ia5I4@C.m!!%P)LnaqM!:UP>'EA+5*[6UG!!'f%`)-L7!-j;Z$31&+%hV;4!!(q#i[=d,!'EXh"TSOQLPV]*!!)L"E>/BQ!$3>E!WW596c;h%!!%8"3!oWc!"TZ3!<<,X+lXmM!!#,L*!H<BJ;8rU!!!#g&9/Ba!!"&aNWK1\^dH%;!!!"DLc>_A!!!NA7f`Sii$%).!!!!]6lZ@1!.]i\UAt8on.9RR!!!!?,)u^)!5Lt?;#gRrG_e<d!!!!0&Ouj%!8o$[-ia5I4@C.m!!%P)LnaqM!:UP>'EA+5*[6UG!!'f%`)-L7!-j;Z$31&+%hV;4!!(q#i[=d,!'EXh"TSOQLPV]*!!)L"E>/BQ!$3>E!WW596c;h%!!%8"3!oWc!"TZ3!<<,X+lXmM!!#,L*!LkKbKnN'd\TT9%BmD(,6-Fs!:D"j!f2Zh]mFtecloEt;bf?L?+Y:9\omoGc[VOJODsjU;6RUbV#1nSr,YX7\:HUH+G+F7Uo^Y6c^m;KVG4\`P"T=tQS)RLZEh.1@8l_m8Ft.j"lKUE."DSDMBto^/iDcUnA#-tFA/gL]_n46Y).ClnkVda^8EUN;?4rSE>1Y@3<cYHiaQDHRl5+Gl'PXJ9T0q$Z";+E^5\m?m8<r/&oeUN"?FHK_SSWLrd![tB=mELOX%'Erq_m]??uD3VmgHnY'9?kbEjlKq:XHS(L;-FZ.?JKT%g_mh]=q,a>+bsFEmT>LVN]N/*k44If&MJY.7$-mMTZ-EV7j`^\-/^"U,(LXc!rHlJ/qVZ(3DJ\3f?EgUBs^PfotpEf.5HmBtQSB[O]nOk8-a="?>o,X4Nns8B_4f<oDG;boQaIJ`^sh/lSr<ip1bUV>Is$PtF[qqJ)K-eYTfL[2.Yri)fe$Ko-iQ'GX$l(piS0"Bhk?+Y9nr:8$:\o_Z@[dF%fhnOO4DK@&.UhiF7Q<q[rGMRD.bUb4n$N?'KPTXLnXYU^(o[gkWFjHXBV1Q!cU`6VI5(38I4*F<R'*-8uE>1Y@3Q9C1PS@X,+9(a7lhmMJO'[%dFY`u05Ppk%W)m>S<A$r4qVmDdC`?WjFK+?7X]r8,N0LB+pV-Om4'=hcb`+R<.!+ggn%ODZ&+8,WkLNjUQ)c[H\@C2B1!-7JB$@K.jiXRWF`u!+UnkrmL*Xdb5QAC'Zns9`bI6+#DH"4<`Z)4B7(_+(=BU(@hS%6!qlI?EE:1?c!SKg*euc(MnF=O@2d:Rp[F\s7gpqJPJgMfk>5(DRSuFN+WYbQa^]#O+7de!$j5;)SkQucON&V.eJnuU+]Y&XdmbMBmN9T!"UWgCAat%OREidFp)DoN;rf^,AOfN)Iqq^^i(NP.;m+AS_S/5O[;6CBM4P74KOd;;Fb__15Z#r`<R7+H9KEQ"&p$1(b3*Kt8Ca:VO$bZ)V4&1-t^=uo"BT]R8dn`2FcJ5^:Mn-ZCm^q/-bfi`eZi^L@0Wq!mk*b?icT1/.R<.T=+lfTm)R@h`EQX^./9]E0(R^Wan)%KUScEHDLnaqo.*=i2%NS$!*#\ZA:WBG\io%Y*eUa(aN2p6qFKo]0>fBBV='pB`>eT6b>E#V.H$RC2P'DsH\)2X]E6#&^?[M1J::Jg-0q18m\AMEVe##i7NRi<C%mTurZ,!YVbKQAS<E54LNQ^;9G?Z-r$4;CRm-1F?/m!PnPFnp\\'EQ[i.XPdaY4O3F5r.L!,0B.UAuLZ(,.L"1QB^V[V4(*R]0!JgUB,-2r7fBXK47]8h::Z_.lW#CYQ;"FUR<mji.?J,pgR$Zd1hiWFP42LXRssC!0VOW2RdOZh<-dVbWeA"jC$USbAZ7^5!@9n%.g;F(Wai4m1%WUKBM:Sd]ZpRsO`15VkkL"V<u9!TVE`h_aJ;mFp)/eI:Sac\"5pcqJElFK7cWHbHGZb*XD4.6=?oG+BXp\g,WdVp3e:S)uZ'.OlptN@O@CE"g'/^A-[qj'?]SKF&=/?TlWP,Vpen,i!b8]basrOZ\mgjci^/eIqr-(i^6T"9f$hP*-I<pF!r[r6PDqQ8`/MF@ofS)jF$3bW5FQF62[iB:WU=NU3^@F`u!+?+Y:"o%"<sfJZskD48Y;n&=%7F5OmZP;tW`YJ0k5q0K.46&>#3%qi/^s8DE+S7eF=B$[&3dcYrL"@+b4*!Hm>+Toa<[;1cRnQN;5@=II\@"./l2`E\>%;t"5eX1FH^%]\"gMXXJ\8$C6;s`ASgR'3EWB6ue[Eafco^(8[=C/T%[+Y:ndsU?4l%>5Zh"NMoUnP0&oO%Xp=-Vh0@EjK6$O[]MLXV.VK*M5Hm;"s_!&S3(;#h3h'JPIfn.D!oI_#,q-KF.HNVQMN:(;8sA&aH^k/[_:3csR^j/VnWT(D*h1ZlbQF`tu:^:%0F<Yf;fClD_3&d\jN:6!hKS*"VpaMpS"&C,\7-R`;Cd7%&8<Q8V1(LkY@,gAJ.Gjo)i>\7S[QuOs-Q_&KbRDp6$O&1P`'*-8oE>1Y@3Meo2+Qb>U^\mZGk'Y9#GM[UX<8_uS;c6NaoCHP=^4#lZY$>\qi3mLW8kM^iq<"/ah7C_Y]C*8RGfs="I)?CPaIN;,YQ)bic/#^=ccnE+*9H\%UJ>h$d7599DNt>Q*VfX2n*B>-c,##;J+/(4aRU-RGiAMllXfnfoB4jHXm\.oR/Q/+^QIVR470E&UIPQ=TdcN/*_m\4'!JBco]T04f;QnMC[N(Xl)1.kIcf,5PMg9^n'X]IH,Q'pcQa^gIfB0+p$)j6ArJ\V+<mD*p0$Fr71C7uFQhPm[rm8PX&kc^7[C^OVONP?&i,4O)g9CV\!X@j=X/fD\RisMf3a#URl5+/QsF^N'lUkc[e1l6"U,'J^%I]0h:A]4T5hjgf3EBV/7AF[9G7BLc(9:M\Z`aDWibjt%NK`UR:dd@SpK\$?+Y9.m^_NGlr^LYltk?GkK]W&[;%"WqSti"EUC0c)QR+jn\oNa"1BY8FP=*9pYUIMVbWdnZ]YMG^%B`#T6rDaqelA99L>&E[X>#=aK7pHrS?pk-at#+pSt9sMMmBK?_Z>`CR;Eb[VacW0"U8CQX8CVF/Si;Z=J)l6DC714*-nR4Up8E'"n8A^]424Zd+`:8o0f\qVZu:)JaK[d`)!MS"_81RPEeMJ<QB5=,\f[!s"c9i[B>@=e2`<!W[=4*!L::,E;gjZUYu=E&&Yu!^O(^*!L;%b0J;@IRg86VbXM%Z!MV]!"aFo;#gRrG_e<d!!!!0&Ouj%!8o$[-ia5I4@C.m!!%P)LnaqM!:UP>'EA+5*[6UG!!'f%`)-L7!-j;Z$31&+%hV;4!!(q#i[=d,!'EXh"TSOQLPV]Q\NP<5>]I^t;,L1bd+7@(S%En5Ib%Y72*kG[H:NjNs#b4kf=gYig#96k^$Z%(SEu',/t"M.c:&OT'G[EP>AIahrUGqu*6r#S4S$R^2/?NHp!q'hKp,HlZ"(P;0dHS:&[+:U0=&K,\'*(k\g%2o;Bq45b)DHoAS$W-+26p0HQ'GcL']YrG3[SVU8"A:%5i^\]mK2f48,uTpo$B)Cm2ERb3\K,a,OjjE+%FO"7Md7@I9XLeU_+9?0eTUkXVLEgRXsT]kPQcTA#a'\8e:fQWpRXDXi`-13<&<"3/mLSle&fbgr!,qtIjGjN*Z(/j++FW,9Xq)R=5)W<3cjQ@JY"Z(uYh^--kR>O=FGH`sNFU;s30Z=MRs33tiYNZ$<?:S4[WN=+j?T$k+:"Yh`]R5aT=jjc]P*E:P0l0a>a0lu@k%j.C/Q0$M.V_5ZPO^ZJeR[YgEaW/uVZ3-)S?gchOo;PZb_l*1rJ,ZZ\]uQ0m2^lkmc8Vs+FQ,\+_bR<9J3OW9?"JqV0>@3j7(2-=;bf?L$!M&IXLu1nP*>@,1asXsV`GAaN;6IR<Q4(]Eg(Kc_nLPiL(9cgBiAGSWD%?+F%jfDK*RB?NO:%L8<Ao9-kX>O^(E%K.P%W\hX^[C_9q\]q=>\t0r*'P'unc_Q7OHo`-<LI'pY*!rpe$OhAp+4dbLFGK$SLYimt3AD9SCG77@Z$aD#Q0,[pZq-,m<gXX=>GhKrqYPQfrl@kPFY^]A5t;W#rdnoDigD_>2`kk++7GL3pKE/bQU5Q$P@T.)2"oY\U8CQPuB8,=YHoReg2fNVI&XK5+dkMn@2>$$2ccCFOnCu_g[?5^XV-7=;,Q`'6X!;He=e5_AC3HaW:/$HUkIJ``!4ndP-rVOk8$Pk;'rV#"#[;1!KR:fiMh0$`];boP60er4=5Q:0jB:RAG9:(m3BH_]qm+J71Rrck8BC4E\_6)e[jn7ib_sBjr?G0OODEVUU(u(ogX]j8_CKL*@"U>/"A+AQt2r8eS/11<u\T4OOKc=p>6(7]Il`Zq0qWY?4522GL3VJnWY3F<,6`X7im^_MPrr)^ecT?=:-s&(7nA8^/1ig1ZlITt9;?$C@e@Wb\>Hr84M1+]O/"W1mHg%J0ei@dDfhc*Ni`>s?B^5jESiV#ff3b"gUq'!m9sZ]V=]Nuu2HID2dsLQ:R]\I3W#,GDk>"TU%;SMjZp_!p?[W[7]'?sVcNpZq4h<2+#pi."3Hjc_6\cBCL2=-4i5*D:V`UiUOjdSA^LQOLV<H@GN>l60<6)S@^WrH9YiYolC%@Tt^6FpqSKgKp`q'S;WS\L-.TQZPT-00*ar3d"s81]CQfl\eJ)>\KIJ;QA"U,'J^A6n):HW(0hmdZ9kK]V7/R!8_fWcGYG"<N.\$Kr+[\BLjP*-FaP7f+BS'B:*?bLc.p[6kTl%ZaJio8rpUIJBFAR/"++;+.EYJ-/Gf;r+"Ti^BDMnT#U]??NoJ*<S]bW/n:DDejOYutQ$L(,)^*'$o#=uq-1pkpc98:@\\*I$9NZKF`8MuU>0koE>eo=&SCh^M2>YeD$$8SkKqFXO`R2(gM+/VuOO%i]-:i.>m]\]=8!X(9V3gUGo=9R:mU6W9l'"j*q0>IqWiY>`Mr,tBho+`kqu99o^![ccl%=Z-(E*CnY,:V?Dka0D[H<sN4">>(<;]PEDlmjT[K*"ugeG.N<`)EHW-n2mMMOePKK<E6MXnA2Qggu.R)5%6pGntjV`#7h#'V[tV`AXh+P^?u->kD5n9Er$j+c[Yq8o>ODFAfWpS0J<CmDh%*)YFi@-H@!05*HPh(AS&q!>nsQ]g>]&V\Y>h8kpFN-T7?jNH$/5kQ"FJ6DFi/<lW'j0XjDLWaC!8`BmTs\GbY`jPru0us.a.:eg9GCl2CLKCK1VrdGCFds1]Y(o_4D1Z>QnPWiB9Nr)\H9D7:TJFN'%JZD9(f]WuM8R!%`U_RT:)6b^_`VN;0i_f3:-;L`NUm(n;^8kO]%XRG#H%ckO.',"@5g3)MuOgZRdpU$m+<&32MkKYql-ZlqPMAeM2rU;nGY*$:g/$lR3('ptLmE#8U<IX0.:iZ"c6\^9,8]LJa1M?E#rqn>Jp]5Ba<RtRObVRS4Qb.J1*\s_OJ,fIgkK[(Ga*Mn,qXqOKpHIoEZWaeRfml&^\ESr.c8]S7Akc]BU!*hR"nadU=.SceJqU(P/R-dV.4I.<]-l/l@!rhk!gP#Ql]Ml[=q;HXXsI#)_"<"hW\m3^)]\e?Vgk7%?S;7n_#iY6CKl=O]P;i21[iu$Stee;FfA+Z(UebrVHs_2?QF"6Y?uQLUfY;lWnr)W8K0V2@P]r]%WS[=1%r0M613.8QRt#f\^MQueB$l,K\nM,N>,YR/kC(h[!d:DcqZAYBn#`sqTP\8U>f.qdnGsaC)Pd3:Wt0o!8pYk;-,b(Y%t5Sp1qia'MZ@;`@k+f;sW5!H*q;2T$bs5\[f94jlI)8UICKPeJ&]3Zt[u9j;-8"ZsImdf6,eK<:iLlW^O765!.IU0$a19l*fAP8I2c41AC3bHHmMrl`S6%#EBkm0R3)2LC^"=FD,RMpN`hLa]c.)'qO2mY#Fi,dMW?=%;SMjZp_aQWiC$h<U[UTRgWk;`>qq-W6Wu[m$M75E4WF:d%MBk'.)DfG+.fnWjYr[j/@oI):'t5V<t>^jY[&--fV)*S0HsF%mDu/o)3%Hb:gWc0@[$N:''gjdnVu*o94okNMF15oie\6NHo[Bo&]#CN>`d,SaLWf^<+QF1-,/]ach_Aa`5H<c_dL+f6kZU0IT*_0/YuoDI"bE/*hIRpc!-fmghXqC=K3>c^l/ib!24F[;J*Uc'mS"FMeg*nAL;*bn%YA[ionC'!TX44OrbtpKj63KsS#C%Ou3mBBtP6ULA?1e]!G:Y$Gi?.arq%?Y-ONEhp4TA'LM9)*']4LA>FE!*Bh'?0)b4VbNY(l(s`L>e./AXK8qAG[&GeF>e!iFNuo0baLC^6=sqGl.2t@6Z0rW.N:rP9.MJA>.SfiAE2mJ7>pTDj,U=WqWd:lUQS9R^]+(jc/04MBH20+f@==012:si-*3_6S650K/%4R%b!Z3]p$7U0.Zt2&%NXj,7@l7"f"Djk>=g?OZfUaj]6=L`dUUe*YA8U[W&jEOfej'B-gk\36e\fNZDsq)MTX(Iq=ub;I<Ka"_P*F%[+)Q.l^Y8<MPk3p[,HdsM<<!*l?1X(YJKriGc'I1.V_pqlQL2XUZOFHgB&\_jc<Pn%k>dU8[dtLEhmj'[tbKd2f..Dldd(9H;nARZL>N6F^o3)m`k48Dd;FK7fa_LERZ;s:FD]_rqT>SrH.N1#mgp$c!%MieYPp*2r8esSA/IJJuc&clI8a.4n$&T??kF_lG,&%a`ahtjr-gG''-4/p0,"QgMOFA9bSjIkh*.MkK]V'$lC+:Dnc$Z>:Z=op0"kBh.1g,S"?5.X&grq;^E_9El$DXpYUHRJQ"0oB84raO]`<2c^m9q470BoDnOKq>.r<$@r'XUh7Img[;/i=:6+iF;<+Z1Y+!+-j`I]DO/(6V&!S!II"(VTi=e+c#[SVu-g0=m'AD%8OLt&HDm%V:2Km3OhjOqf]mTW96\\i#@RO2RfAMYGf_jR,=k/'V6lVa#PZoH(86iMS,K\249E)r5=`[/NXO3k*5?,0T5JQCFdB*W^B\BkunY&S>dYhgR`hsRu9\-6fM6b.'f#dW&oG:D(5MWQ`>Z1Rh$N.@1GD?^`juD`ke#Y-*N"3p9\SStDehL[).V2mfE<eSG`(6XHCLhgUdqh0l5:\d,`)4L6;KPLQ,a7mJ0fgPs(-"8@g\8MEamB9AC*+IE6XjN^g0["4Z"_\e/6EHm-ia5KLnd5A[k^&BpU+?]NOY/BnhpRT]%VhOSshh>dp9SumKET\]SN>59;7#e:W],q^,(gFT>&;8:3=D`?+&t6ackQ8^:lKI3:LT+4u*QIIR"mlaiVV?r/KXl?d4tslLsrf(4(EO:U\$qjQ4M@]OT"!=WRQjM`;(=`0''=5DAr6>I[1H3<*t)!9url"TSOQLPV]*!!)L"E>/BQ!$3>E!WW596c;h%!!%8"3!oWc!"TZ3!<<,X+lXmM!!#,L*-FU_!!#8OGo^Fa)KF7916=82d\BK>TM2qi;Hf_e=s/h<7jEWG>mllg$^=4!<([O_8INI6ib1`!]PE'RBn8&(JkBa.122;!8fWfrNd!'O-7r%@>u2t%:aRb*7u<uQ_==Z3b+o3`U^JZK"j3VEi[Ae'+unGe5aeuER<1`kZp:%d5TD)17KgcD(+>@^.$H9^PSP[2(5Sa(d>2J=a86AL]NRJX:B!"#?G*dln(qp8ZoRa%1Hk)Z[tQp>bLCc\hgN!(97pPpUeu7&Iq,!b-T;4raqTu56_a]#Lnho9LiDU'O,f5akF?V;hoKZ^U.)\;mB45'qLAG'+)BH/EMGrA2ra&aT7?jY'2PuQh>31^r+"c5=)UfP=ro_HW3'Tn/UR-Rn^:&`IJ2?,Fft_Z!tWIVM2@(06?]uA$H1>"[`[;\@"ZDFqXXQ3BGGoRG^*h!o5L'K?bZI.`udP7]^o=8CtYLLLRW4r3Qr5oLnc>7JIKIoib1`iHG#^PjsQdKo)AOThg+CUE`J.cVEY/QKI!]j++<dVO$7=TVOQqZCmJo)g9pP8ci;P!IO/'FnV^c(\YAV-]6a-bp\T4+3gi@(oheW0ZuY9Nf[s<cBG3=NEh3e)4L;#436WFkn3Ldes8MKeUfd2P4T(e\EHI_X"YpWZM5([11i_$,OcaY<D7@WWf3a$`]geKfVN7L,A]pC]e[*Rc]=ofle&f6-Jd\qracZkKd2"<;7&XJLn2?:F3$6_n_ZQoeqtAJ7Vk8F,)>GJ?[rM$c7iWh87RU1p;3?s%+ENKc,1`o&qo:r#nHV;R_&6mUEU0a9cC[>Y==-$gq3G6&OdU(?[-?#8Mn/8+!<[Z?k]-I`Vb9(^rqbql7G619kFEtZ,pjt]S5uaq),"-t^iT+l2p2BXe6R:Se[fnh$SJsINAo^uG0.>KSiqF4LALh/FS2herN!"M9m#aSnaXXA2r;=KktcdYMm[EV[U6duEi3IFd];?ELV'f=,JHmML9,50kM^L-3QIX'>d`)2eFV!NhtH2Nn7&#>rjbtL6B6^[pMDmD'3ALcjdBbQfs524M_DfsNRCq"bR[)+7nKV20mG&bS!#dM^\tUb$*Hp"mdLEB)<,=AmIR%Ha\R@p?078>*\jfINZEc$5-OPpnbgV.k2?=e%iNglO<HuCDfXQG#4(]".]@>EjM@ZoJIKIoib1_:E?$iBD)8on,"J&+*].QWHgeWq(F1UObK-Y_Y0NIn9<sY)O:E9le2VBibh9=8b@,(#?_517rU55#jci\[D-=%\QXte"=0DJ?07G(2bsWIjZb\eSqWXp>lC\+Sk7oLJr;QH*Qcm]>s1EJG=]`l]s8Mc-jg(Bl,/#57H*_tY_M,c'm;M*dgjO5EVlJGDQt!>YP,Yo.Eo2US3$CY&d@s'n-Vp'(SND%=A#G`:M5,.TcF%dPA-paIfkJYhjUQ45P9c/lc\E[1Z(8q*:3RlUGrWj#k@Z\1%hGUo++?1!n1MM;Ie9DOK*TRU!qRbX:<QU;d!F6A3gj.daR"c86)LUn8)<+gnK*)SQ%N9&aKp-%I*!\$aCRAreuW"a4X\Dd4h3&'O2`+bL9%Ml>%T*-,oKeG'Obld,1?c=Hlu;8bc[A-ii$j"6E+5XeubENZb\d`?CHt#-C7Y0;ls9./h%Abb+88]S*[L%<LZ*lQ\RfkWS"1b[QUKobZ;#g[V=L*@2:KjY!leI3V)[eZVF@`XLEp85r^r/1$4s5LGtSJ*E/R@6S9%"*Xd8)$b:XEjn&DoVWQk4On^;"b05M"o#i[Fh_J$p[*5c7W)Igo[479k'<d$^;^7=6_:@R/q"-(LdAXj%I(=XiWM`oA*6gk8`Z&hQk+$M<3Ua`_^+iQ,Oj*X^P>B]_%s_+C@4P&&2B0;?@kh+F1[m8`W5-%F+d[<8+h5Whb@^e9\Nn2q*Mk0J-Vq0'i)DSg*=m4rH7`sH)J7qlr:%Tcm^PUgP!%a9<#T!,Y&;!/XEQo(e^9I)#]h@tY;Yn\D_OsJ(;*#9kJND)31\*kSG%4fjn&DoVWR^L)*<$.!tRM%]Gu@_STbu.'g"!'lo=90SP6-mA2`gtOD/IJ;)c!GJ:eAoWDf]aeU1E?37+b1]G]e8;ALt;^$N&JN1"P;[[!no<io8<5NGPibN\9UEqufCc;JI:Gg!3m[5-&7T7-F$>]//r?-"<t3[Zc;H,eS<f3Weu0&M-TmFDH2Wb/m'@4kTaKrnFo/=c7HO$8!g(fbX(2gYJeWM%!&+\NC/::=JGiZ6l`SodYS4q+u\ds90[BqL/Z50qPkC+%-u1#?"kpP`RZAVM3qSZ7mQ<IrAk]acelNB$2-<sN^6!FktGd&X@a.[N5@mOX\@04#W=h<='9\[?SGf#H5]4aP1L3I@g9+7^cEjd@o;b2qrl]2#Wai%7TLNN.9EAH)N&Ek-PkmNIp=l($+2k8A(8jiR9$(L/(aa,CmG0&T\dgDpfGZ$J!<]c(MAN0CgBiVt5a?(WC'Sft*%I`N.T\W_Xf4e$8C2jbs5;kFT&b8Baoe+l+<jg<@O.A,d92Dl#c:Ub5tQ7Q0J>W,p,0L(f&fP-``q^o=N:=[J9W^(1F?3cmq7N?Q'Wrq!65ib%qOccn^d@r"\Hnm2@4+"uPq:&>=ajiWSkt_[&/<JqVP*0:UFoD!b03u/2`f(dUX'@Ppp?gU9Y5[WT5>"RAZYa's[.U`+BRH)E7>hrPCfdmpi%5o*LpVW&r5BIZ%(W0,kCb0Dce/*op=jN/<U6R4S>p1*1!IW%[BT==R"`0A_@,JjKF&<&YpMG9Hhcf--hZ:+=b8>OZLqrGn*gPQUgr]]Tu$Md$9@NbZ.ZHr#G9%g2s[is_^V5@B/VUXa,`(U]ANQ^StO3#`cKHh-WcpbiX+Wl`D4Sbg/1TKFfJ36<Wt7Jp,^8O2<(PR>T1Dds$@>5ppg="QX9O:9.u^JP]$E-b^&BBBD\FeeQ6++`YiErDVb/D)fD$'F/HLmf3Weu[a;$SX#=hKaAHc$`]G[>j!V:uR((puX)X>.0Fek46;@p:#?gA`GM]SWCu+FuGMEeCH=l)X_IoKhf(]aro(UbNrjD8CMt(R%6;AGe26V.YTD[atOklX(E1Rq'B$@gKSnmt*C1egccThG7G"u#p].NSq51?3?jrWj<WRIY7P<pm6r`Dm6a[0mOc@$X,iJ%jb/t8+0*d[#nj4cU,09)6PO.H^0b-l6GrgnK)$!tX9?jto6lFJhB%WAQuY#ICD6\Co"j@j^MBrB'/ECh_$Y@$.5n%FV-SRS5CH&QusAlJ<jJ<G7/3F<+:Hffnf/pQNHB?X_(EnY5qQJH?U(T3>uQ/.oIW]HQZ(!$qT*$pV7Jucq=7RkCd2/>A`E3GNf)0+0D%Q*%aR<)b'R<7CZV,!3FTgh#7Zp5TWN^e[DNd'fi4dsg4s#r`:F?ub15aeuE*$pV7KHH4ui[C6"A^UaIdK4".!caGa)A16nGW5UnW&XhTo+rr[i,s5^W7dN:H([jBTMesd9NiR!&k=0uj'<%W8ILbS(K=!7PXu8$;;u7WE4ft;122:pl%2NAJMLqj3(b0M#`a*\:aRbj-='Fs/PmcG&4_SP&J50H!74PK#FVGY*-HlE#8.":L^5*"#i_d%HoR2f!'isI0LZOCh;H2%"98EG_M9Rl39g\i%O;#S&.q*"&]@O*pi%>V!.]mp@>Z1f]"s.(#ljrnKF^uaERYF]*(U&0+<l3#,)E"3nDQV6!!!Vi_\>BVFb:20;OBKT).NRK(_6TXb_IX!39l6;##aU?]m#JWHWb`D<1c@_a]rFhG4sbP`jH[DYjK5WpJ.*[G0_4tR=4.PFfi!EUE>m^D0LHCD>Uc\Ji@RL]OQ`@gjJ%1D8+6ijn.dX"qPV)\$)T]?:d`N#3E$nQ=[cnI(3DJ3H^MPR"#if.JA;FNH[06N+KH[k&u`BP<%&/l&s9D?W?ZQP`uR5H0<\+rQZHHpkO]__4?o^NO<:lH?Q`:lc$bsVe'FBq\HgHc$ef_lV,n.@lC%EG+Br+GII]6m5,l53cUl6)G[mY!;q@,8fWfrog$[BbBkEnq>NsL13.E8"-;fgr2Qcsipq-#ageojhnDiQLJHa6WN`a/-FqJ`->(H;K?'GeXAr:u+\C_UKaWAoF_^-33,ICBh#-u/c'Zmk`<tqTSO\]2>OQ-8mO9QG[D'c+qosm<g,9f'6ob0&GHUbNcF+F65T5nYF1A_>A2iqG2!Mud[%)`"P/%8J\V8N.OE]cF,tgi\.Z@SCD\n\)^AdZC`_@V#>qfIrMJcWUZeaWjFRXO:K0g'--^0a*Z&j;:!1H(1-uh'fS-IEu_SYJ7;rt9/`Qk#%(3Ts/:X,IoFO_l,*4bo^8kSSVP"F@t7u-Mh1+QC+<HX.XQ!W;=hL!iL0;PHT>e)W6%GIP7icR%3/9$Z)=mhWN/]AcmD,/lrnWee96[#6\TL&B",n9'caDQ[DeS3X7=&aCuWgW5iVl#*eK0]tY3D<s2Hs^!SBH7)A-/p=m1a7MVdZNPKIkG#Q7oIe5D;4Cb>9;/9Q^G];Z*C_RLu`=&\@CJ),`\H\Cfonme1C=UOsRrRVIsO+1hDPLG^/LQlas3!N#:OGg/K;(*=\lZ9<e_tdAj4HgHYI@>Ae=t2gQbr-"^c?\+B:8>u&",]qW*m<m>Hi3&Rfb#E.B(\!AX0@X5X'!1H(1-uh'fJd53JOX#?=F(RjPAVc$\?:[2\J,c9TA_&0hlKS9ERql"/hLaXUTDuYJIJ!8p4pp*Zk>.(p<u*D.ZYl==(q4t-p"e0L!sTT\`R`^HV_*["d?\5P(lb]BcMgrhr)D:n71t9V)E$gJET<4rpd29t[I_4Y7rbTYP1@ji:;*C5gK)R8[l?6N-TP]YT/j6uW);NW!W]eVNY4i,,'Y4FPa))]fs4pU8ZB,4&lN$4!T!T1X/(cMg(3!03%cZ!>YCq0Ja*![<(2*i/qeUpZs.qUrh:UIOE^%ncdAMi:"QpA`LM6O[&)CWAttMh(2_qMgl9IVWjJk/8#K/O*"sRe/=b#;.sF#@3q\AQG2(OEG"]oRe`:,#6g!:LQ5,(!UE9K)/)hss1a8Fod_;HM(K+1YNuoIhB1KSR`F[SK:Nfr[mUbqY[^@mbmX9E,S<0qd.Q21GBR>ljI!8SZhHKMgDk.iKf4RT@hG'oV'RRXNk)MfaDFdGPYH2h\Ac.8lf-DUYQWs.K=(]R!P4r/RmAma4:3TXAldRG>hsG$g>HCO\OTRu]P8D]rp'&;b!;Hn@PW0Qnl@JS%?J^mfaU_(:D#Brce&2-j.4N[/l..kIdaS4ODr1"2/8M(nANcZS)S.<A=lQ&HQWgj?^LiK$m](*je]!HK$hsPZ';l9to$pT+>DbROD,aOX\TY)tcJKBg0JDUUPaLA"\o6"Bl]2=JB4q6hm+=#\M"OffY#DO&m^?+OgFZ/p#Kt31O[Fb>ecYCti[Ae',/X96d@X1(=RH$*^F_CRj,bEof<7,^cUTUX4*7FsZC#L21$dE(B)*@pM4Rfb/$#UnCA)K8C6)5e^97:bW9V1aC$'23]CPPTa2ABn^&%WC_II.g.sC>;Ijd)3EE(>O@LlQ[4]5P?IH3rb*809*X]p]U9+N(,qN"('*gq2!"Fe!na*$jb]5[Z@/I)e5Dr*&>GJh.C+n%rnH21r+AiSU@`NBU2'M!efh2HQ9;q&SXh,+.pNY4i,,0YU;:f8Kui),&t)5"-A6gt-p3B?h/R*`;(f?TA2BlgC/Z*?s9rRP6KmH)NnT@T2gF2`qI[Pq!A0AoJU]fI;[.e$C"`pZo"_D)gl^UjQ^W4t2K=#*/?kic(GqHX^Qqt-C=jp'(A^,p_p2Q'u8gJ[A=ZQ!N>`TW6hCG'pFcC@Pfiacif%3,#q=gRg+hXDQ#@7.5oUru8e\9%"=o+R(?I3iKBfcn*bau&5'0C.D9-L:Y6[;/j7h/:6E7F<pl^kOg@*/t4G%O;#S&.q*"&]@O*pi%>V!.]mp@>Z1f]"pFhN-@qjb?t6,r\"9H!HF>`)A,.Q8,rW4,(,b%LnekWiBRGE!"n2-'L<^]K+A2"!!%f\+/T>'W#L+DO8o8G7//H)&4bOf"l4DdA,lThcA.HQ`)/I<SZMklJB#531/3`fl38=?,TT`//Pmd":amtm-8#"s9Z0depi%A?Lb`[q1?jB_Bn8$R_1uSGNk3&^"%c"I8ILbS(K=!7PXu6H//*$Q%6bb&3hf;OTM2qi;Hf_e>4>sgLnekWiBYg'A^UWkdKPoa!bKf3&'I?\Fb:20P)^rS(+>A!W0A&GP88OJ-K:sCHoR407%(DIRG;t]\G4DAju%TL<([O_8II^5'62M24rd*SU.ea`9WlN"G3i9dAn2uDdeHO6.4n@C/blPD`)/IH1QXBdmeuCgM8nZ%#7gZPqXb8M#Ij'S\)WPn]onQ&`E$S`h`Yj^Rt1[r%NK`^KF)Ggm#d_,fPt&AHrQ_%mq-)IMf$_`m2?cgF1T?2Is^spbh6?&oS8Zq$f?6me:.AA*^'4QM2C@uo%/-YO`l_lA57Go[W1WP_hY.$AY$=aIJO(Bk,jPcm#\9RSWNTnCseVFn)+/fOX"4>\F@;]UVXFn2BLY'F0i]pbI4CVU8&fu2JmYe^+:g^UKd,4h;C%;.b1'3ADMT-2/;3"CD1gto<^'6\o[4?`JCP#9T$GHjO6nAbt[!'1$#"5mV6lAl7@VUGd.RQ+n[!jO=Vm!d^WQ>'9Q#aPmZ]AEb\R3_lD![.f(B<QDr/^7FA\UQW?WK]GIkC=qo&RGb@nE5?gq5rAWmBmma3F.,lXp1a:EO.4[(?M<*ap-V_b)acWVcNu[C('D#OBk+70VipuYYo(%8$iJ5F9)tr[b1j%sR9q)J_94a7oZK.=(#EQ@BViMfZLPq'dZthZ7n!c/u`O*"BJqB0$2W_.M?7'nln?$U[=]/F#@GFg_;,L:rqYJ5SS$tR?J,Wq6B(T626FA`RgT7?TPWSYc:/9T527JP_,:<LrMcEbWEqa.kW;EdN?,ib;PB)2sRK)GKV^h+9FZmpDBY$3h8\Ok72/:eAOA2Z7<nD'=<[jrtlR\7Zm`XXE$t*kG\%M`ia?aCne`rkghI#C7dX[(BG"?c6!EU>#NQVbp&Y3U6Ss=%aUKSX<Fd>qQT/mJuVq)Tpo_=^sFPa'!ejt]#.=)WPkouLhs6@1K=HPR8*/t*!J[DnjnG1R5)=T/"mPJRjOIA4LjiW\.5;df]crI-JF6)Vm2%LcaJ1#6ipr^I--ebs:l#q[`jd23bkZ^32GK!:A<E3=6A*$JAo\OpiCP?$`PFXdBY3EAnMba4Pln7V$j93mp3a0pdl?\afd<+t1;`K--On3EaW&j'g=q4[aVq1/bP>gB"VMD'ESc/65jrA+'O_N:]hpmU1"]HKr%;8;[\ia:prTYonEe@.U-Q9!tV&Ig](5Gn\V5uJ5)M/J87I,h:H@3mJ3q$'!CSXCM'Kld&FJ8,W3Cd?kib12he/c@-kt#ga5F4"9,:R@+[V`IBXr&l[Sg]<Jc6]a#[[Z>mf=8?NXn:jV<E42=#9Rc_H*>IRUjFC6-"^bDkZd,.p[mh=LSdb-$h@]-GXEb;2X_VIeopAK99rZrE9b2IGM,aLk78N/mR+\1UhI@8Q-!b/fkP&'-036hMWJ\L."j]7.k9Z1X#eGbe2OpP_)L9,1Octs8$_?qmG#P9eW#N_eX#6l!=_&S6hD?]3ickb2#'I\U7lm6W\KKJEELaob4+Gim9ieuY1TSk[iD+5?F@(.=qjNTPOM?a@J4&6(ZK*cERZ#F"0)1=Oh[JJe+S6_U%Np:`nLs=:@$g;BN^aGNa+`\J,eQ2":"A<m-L>J%_CrZ6Wsu8X%&)3Vn,H,Hm*./'7GeonLi.8a/iJm(WNRa?fsLO2WfX=Pf$#FSGKGA?,dZ@*4S'ps*m90kjKUAV!^U`b+r^^3L.^#mtIi?Pf$#"'[&QqTb-e%XJh@^YJM`Pe(q4/Wp1?As4.,IEcq8Q6h8;B98:3^)]qSP@CX#\3L)t%4a:p3btCD54qX?!W1K8h9VYc2<cs_6c8b*2YUE[Vm*aouNmN'T>$3(%$DclW35[D>DO>LpFWlcG'1^jj4HSWos0$"WjG@!=jhoCK)>8r?]uY5E<!T!AbG[V]9$I?bI-/XAgUC5h%;C(r:!:\*FSbXT0em]PYcW&B[gbLWjT4*1*)te"@m*>C%Y$ppgCd#9$c+LPK^?H_G8Uq$/HXDmWN"If_Mk7I1+AZ02J&n0mjVT1%/I&2nFB=K."j]7.k9Z1X#eG"^AEOIrUd;bkKARo/QcDnM\lAqDL<Gk>s"(tX!,G*euE)lnsU-<i"OLpL?_p@`\a^7@9$qheT"Q.YUE[Vm*aouNmN'T>$3(%$DclWR)?,QDO>LpFWlcG'1^m;1m%DG'to]t.]4NWLNC&H`L5V"[?6raC;7Er/N<F0q"WmOe-t7ULCW.%Qm`Iq:<1HN%3)HA82)[>"&PEITTB8OA`(3LH62eMT"0'Km:E6chm&?BiT>>?_g/&dp0Y):bY:[dSt7aYqIDh73,/_%-:QD.XA!'j]uJ8,DF-X/=q4[aVq/a:PLJ>PE:dh!_1TKaI/)Kj6Z\;/$Z8M?WuDpHXiF':)H*pp_b;,0NQVbp&Y3U6Ss=%aUKSX<Fd>qQ+2rb0\$"A[a1!%^o3Si17TpKsd??8>T8fTFlFINsX,3V>:_0@?o(&AG:4?UAA3"2]W]]m$Fn&r,!rY=Y`45;Q8kO2O](Mpdl03\sq8$h3!1#3q>eAQJkAL_DR$[D;9$C)Jh`#84dB4WU48[(@cS@N:oZs@,XaQ+7ZR5ToX<qi?BRZo+WC<`a.s@8%;t=a+Q;mLM\t3J21u8)P'[GQNjEt/F$?_r+D3]-V4o@&qh>RBQnAD:rNV`V?ftj^g.sH+\j/DWqBg>%Ceg4^n0**s*7!,/sH<.%#NG<H8eQGL5IhVu_h7@'^*oD!kc?n*a)JN%k78LcBITD@*X6W(lXX9(>UL$1O[OXSWF%jgIeZ6G</3Hs6-I5B1T0AI:@i^=5)7t@2nQQZIiS:+oc)5C/!IU]Q\GO@0eiC%\\QcPcA'Mib8,oi-d3I,#=5i0[40Er)h1aUmD`N%rH1PWn1:UcM^(WZ=Cn[Z;r37+q6J`u6N#MAsjd0<7.BrW\;VY]+"[H+Qqc-Wr,u=$lcGk8*g!pB8LMD8<`4B)s?MRRFA%bh@'t_Z?__LK.]qu4Op&4hPVl#qXRB.o"m6,6E_MOh@jfM6*eG%QGSU)$"RAq:qrlXSD\bt.Kh'#ism-=Ge;8r(RJ;0T:+_1Rk5BOuVgu&jnM2(<q];*X>lkfZ#:Yd,3J5dW?MHtOUb7Qf(<@_j,dMAdmG)`#<')qC,p-d;XF^9fue\k=/e9<$Pc-;NK5b==MlIYKff\!+bbV=%YaN:u:_M#?T^VjnMo9+ZQ`J>+'JKN/pIgKt67YZ%V5;QrtV/^L\_=NBjqsCIfefVLC^L9L5Unl1(N4<rq=S&:Cju0?*nTE,[>II)+U&mRW4*1"*Gsmj[WjQt0EfG5'n#jIP2&jU5mem!SUIVd70VE"7^2g8rVFtalMeQlpB+uqtq]EJ_$;*qOr$/8cp6U1(Xh!NIbEnh9*Gt+HK?L'hPh'DDm(IIp$jkUW\VdaO@D`:j'rUIKRS\L8X'T@XlBNf/RDQN3k!&_!XBG*q/fR$#D<sj5Y)Wj:p<P:I])V'UV)f/7ld_*n&??<=prnLt[[:.^HQob0fE5eC48X_QlE^icO((@Hdrc_]l<W,J1=`Ep-[C9CCWB:@:Xm;.l'Mh2J&Q='mdT1sO&3blib1aTE$4D$122:p\OR\nIrBV;[#q;O(+>@^Hrq`TW#L+DOE<mY[*\`nA:&%03]2=u*h>JXq#;j%9_5;aZUC4gi57;^8)7Pn8B+"*Intg6Pj'Ik>:80>q./]11].'M))EI75q7$*rcK^>aj<!GL9))/PW0Qn4rd*SU.ea`9Pupi>l:M1EuVk7.]!<kU]hj+M)ac)*tBP:;'mkk-='Fs/PmcGpomH1;)e8h+R+\;Bn8&(JkBa.124R[AKm/G_1r+a8!HRQPXuZj8dgkT$U-*TERYF]*(W,b9Nn)_\tDr)TM/PY@@;qHDXcUMdLg'=!bKd`Q-o_FdXi"Q6l^?%%gS8X.$GDpP:ieu(+>@^Hrq`TW#Mf?.Jq0uj8TG.F@tH)(W=8iA_t);JU^lDjmY@ah]=u:/[1,6.'$DSrcuZBj2SL+q/9h[p[#/&q;$u<UTLZ/\R"7TA<*`D)j*-FSN&@b^[jh#F.'+.3'18Z5&fGHe#.C,4Let[^)_t;knWt@FMW)V/DdX!B$)Su*A^bZ[9l.d64OY.B^f^rSD*?`.f)M)b(];s,Q%<'_1R6)QtWX6<_Y&TXC[^Xio.f(ZEe4fdePihe`ErTi&R&djH'c;I)nTUk6Pl@+$P3E7*$:WGL"gC9`BG7e#lB(7iZY=n3A`M7nUqI^YHU(bp?"(SN^>^^9M3?Bgm_qCKX(p;/,:\++J*27;UVcYLCjldl2+n/1m,Y/p*,11&mAn/1-FO7_Z:4=<71?]D#*ioON"52gK\Ogf9n*Pt=qT<>Cje5EVIPc<'AnSO\]27Gc53gf%#lCWWaYc%dBq>gi,sr:uDuR*fQcME8=MZ_CC%I%lb$ATdD.Rl'BK['Z?TJs&CXjA@RT);C[C:BqTSE]E/]%(q\nlT=0DF2AoJp#X'rcj6r.aOP@G?=i]p_k17HM?r4?)\b<QcscEO`N?S::X,IoFO_l,9lfp[PSA2DM&SCfZ>cLHCFaSrPfMGn;H(=`/?HnJB^Y.:PBFTK-d.Mj\8nEU/%)ih=]Nuu2Kj"IiD&dS=%E"Lq8Y]<+%I'RCH#p'IS!,P[@HBXbL*P7.gB>$q=PYH[Q3<-_#!W\")%g?CZOb@?`u6\p>JfN1.;=ce.(]5Z_sH]T&2Qa)EdVSfN?ml41X'&0$[_'WiG@X%mJX3S#b21R(mL-/G@ZCV+3)_-2gM7VDjhmZ-?A:j=<]Y:d"W`Pp8FRqk5H;jMJf5VlJW+%@M^IYFk\[j5[)4G.j'%&i2=2Y2qL<??%gGE]]Q=BgC6baP#^/56C/oLC^$iA?CupkBstcjP,GS]uh$$`)/HQjd`'nd]C*o5L,hs;Hd8nXW^aXVtKM.[&hJtP?^8aIt-cn/$lR3(3kXTg7"_0ZL[OR1OG'!<Nj$`>_O_-aNnM!GB3!M",o0R6aos?;t<>*bdqq;@GL_P@D7<Yo]\Z6BRCf%G-7CsZ)^?R\pN5BUbBG1/1n93'tg*!2hbM\&8&JD9'fOO3es6b6`8n(_#!W\")%g?CZOb@?`u6\p>JfN1.;=ce.#/5VcCK\h;[Jp]kj,(Tqosn>%DoO'_8a_O%6Xtj?QqVICmtZ6u#b'YG<FX]cbh:P<MsL=%A5X+a:4+./Z%S"(6UUO^,shG-'ljdAlVgb!4IdV0jI2EO=Hq!3*'"9$>A'FSbXT0er7/Am6d148"K+@@#ZI`(gE??:3!r-i=QY?Tri;N?Ht)`P$?,?=i]p_k17HM?r4?)oDVOU>f3pB%OQ&XP3,DCs1):/3_q!fT&=SDFdGPYH/0.iL/Q_a1n"-[P.,("@Kjd4)/"+\W`jT>AN(F;QMB(p[5H&AeiT1\3>:/e1+@9<,mF*`c'LK9gXGO=e7X>=n8.p^Qs<Fg,>mIY.?gYY&iOSKKnO6F6YUalcY%oTFk]rV7:`pf;hTZIJD9l9G'Q1F[K^"kd)]edHToHRg,^es(1'"i,rC4]QiMk[FR>U3B7UDSuh0X$f0Ba3*I>;-U45l.Pn3Mp\X$8OR)meku):Gj4CA0^O`HRPtsdtN`Lq8h;8u!0JDUUPdHL32D3lGBp/-:@a_ThIlqmjn-7FfKjX9E`mO:2S8D$77UUZ?n,Y@tXAs?7S?H"^I/EE2=.(7a39l7>`_h":fQ"uoZ0U!\^N:V8c5esqI)9Q&pIK:DpQ6]&F0tr*27KR.<)uldeEkl)o7M8XY5J4C0epRIYPu8?n5rh]4;n0-@UdDqp)#[Pl^FFoW=D%c2d_RQd66K&5Qp+\E:'H?F16$=.P3f.o]SLT/UCs]nWVMD4*Fm'm^ik9Dr5U)@.NI);Pjp#p'#B=UqHW1))IeO;j[BA^b:BGYN<,Kl[TCnaP#_*CBW4T%j+%]aBCH&chVmPagVe1HBfp'Lnejl%]"]>&pXbEA)rg*fNDFefTqa^1-[8X_qHn*D`23VGPLYB,=]aJq(%LfeU_@YpJ.+&[cVdaNC-BW1)@JQ52Q2X[a>s15#3ijZ^/_gRF^X#@Dft;a]ih---<NTNc*CNT+pq^3HM39f23U`Y>.WmDF[I.[ORcj'd[lk`Jrh2@D`<$pW,q*_5HC6CA5rB3L@b)8_)**2XIoZB'm(?SMu#8L0dGCQ]Du'kLd&ZB1e^!M6X_d=J#*FQZ\VKLnj,._,b#f>La3Nc<SP/`>hNk2pWI#8DU+Ha,F`bXu?(E!Al!P:\`IXT(B??P<U/gZn#)8&P([8_h"U.b+o3`e20e?bM*FFfU+6e.4n@C/blPD`)/JgE$4D$122:p23"<1<]rEfEauOCV6iLU[,AhW&P(Yb*D"1s#:J85<9m@-8m0u+e+1UW*KC'T1Oa]r8!FN+5T?okcP!gRalhh\?-3jI`)/JgE$4D$122:pl%2NAJMLrULLhZi]"s.(8Oo":$^=4!<([O_8II^5'62M24rd*SU.ea`9Y-lp>+ePmn6q`@UMfS[5gg6UdK4"."dRL;A^Z/@b=!=mK+A3MN[U),.$H9^PSP[2(4942ii!fD3085MRC#5I)X5T>jrGm'DM!VAPSP[2(4942ii!fD3085MRC#5I)CbR)O^HA#Oa$/ZgC7"//PmcGpomH1;)e8h+R(:bR5Q-HnB:(F3t*1cZ>\W\6\b6=r+#8^g"CS1)qUtLJ(:[WZ_okR=FXJ$HrQ_%mq-)IMf$_`m2?cgF1T?2Is^t[rh?,OUnh8jc9%rtlZ`'\_8cKj2qO5-EnP-X=A'En.4Xgo,L`s(C3@&[^Pjuro@ClBG0!\::@Of0RkpqJU8&fu2JmZ_^E^,AC/,pb.[F/Cij;=1b7m-Ue#2j*HU1?L?foTpCjEG8[boU3.V&k..OpC,oI1M3[r^l&0eN7o\SBWmOIZ\1Y#BhM_\cn'bV/_Zs7t0Ddc&[OpHO/[YhnE\Rp2!9-'=Wt?2@pbSG0BURC(ni1(d%4i5:,AUYmop4E@6=9[%jOR<o8JMTa2XaijS+LE@EnD:l>$e'Of;2f1#q/X8m[aHG]c8sWj-3R\mebcGsEUe*5:V<&C*PQWlmJMqb@i&MsUg)E\NPZCa#[n6cQ.P6)Ij,_GhT:8(FYo,@oXB=G+IfnGi'd^Z.]PsQ4Q]OpC<E7.hIj-o+Br5?bFXr?O.7E6117FLA87m3iac]/l:H*2!\_iqFKq\\\9pr<FRr?M&CcZONRK.t!m_l)bMD6HRT+XFSpu74FKn[Rias;I#5'*TDok3F28^G[?/na8+gcoN$PKCp%+;I&=0@"oJTM/PY@@;qHDXcUMdSXtO?:[d2\8l0%KqFesHg%J0ei@dDfp%`]S*JI8il6t]/6mF/j#']-h4R(0,pf6H:sV,$=L#03W_7007$3tqHS:ns,Z2%3N`L'sh$p9O'Wj4Y?_TqBNg`!;*c,)#g2H8)'tchpQ'Z^nkg<smYZan,H0<hbgCG;3V__A23\&.:q!7kR:.*Veq9(Eu8kZM9=g<%G4?8QZs*\=L@`@hVhU;O;dXi"Q6l^?%%gS8XK$/8TL_3Cc(L7XmCV*0@G)_DA^8X;EWiE(:s58NH\[giBj$KrFUr:L$clIpI*)4c)IV?k<\a]+<W?L0&Y7?Flk78LIo%#ad/.&kEop&XWjjgImXeHU$34c#\TQ<ecES5'@WV9E#6\/S@puC#WX/c=u<Sgoj1n;kD.-d`JA)d%k,I3OeF`'3a0]Z/tq:i@"2PmmBs1/m,4Y9JW/blPD`)/JgE$4Bn\4j"0$o$Oq%<bqTr^Y/SXE3Ifl2CK$hc(^8XN\uh=Wg@:>G?_&MQ94+\pN5BUbBHD?rO*.Oc-!</6k/Hh)`)#DZ+mZpZmgH,gu&)ci;m`55P.H+5(N@r^`sHURmA=:9E%?;kqCbMHh,Q.P6q0p;a^bc.<8mp7$A8<BCmcl?dY?_Q$nRXrKIM2HoBN=5BK`jVSXd'V0u]iD=Oa3CAOS]W%X2o'r,(Hdr%^CBJP4dfO+/Je-$m*-HlE#Ek+!bB03EA%LGp<'*cGp5o&qHrDo=5T\JmD;SZ*4"=31<Ma8<4Z\";kEqX%24rd,NbBF"(*C<+W(8Q%*BVhnoOt/1A82^DSki(gh:"Dl*OWUUm'OF:'lRG"Q)RcuI^5aJ]kj+i/#W?ChH/7Q"e)f<UC<EURl@B0j)gKZNp8?2*P1B7TC/t3S#NK`im`GUJm1pnb3G7V,l=CQi?KZ-j1M8nb+o1_QAITd"s4=#*<he/CL#ZGRWh)NDmI%o\h,jB*qYM3W[8SL3-=A=`5M5hb)h`qr.Y[4,UAaY,or7REfS(pQ@8Ya2Aj$g[;X=F]@Za3B#s`4c*_*XVru:'W2rs7Zd*I<q:X0R<_f74NZ&W/9tda#2H]-:l35[[<0&aOT=0f\g0+fCUFUNUlofgqMeQo&!Wfh$3:CR4124R[AKm/G_1r+a8&8b_4uN#``J^j>qL.pkET,T8Pj%a]lV3#[e,M1AhXO<C*r9FU,M0(UkPT25!qW;eOqR)I@d]^Bang?Gl.O`S*]l9)K->PIqpp6L?#&b2r0fJdhljMlQ'R[]G?1un3kH!L=.*m,S8<1EZ/=(.b%ZKNhP=IC>t;jNWt'NBBgD'h1>,hk;I&"^k0<a]S=Bg2:Ze/>r^<0]i57;^8)<+@JY](!1@<61mi2usI.cdn"2C/.@cpMHB0rX$YD(,oq:PB+N?<J0$g/!?C;+"hIH[$<rU(n#RWE"lF16$=.P3f.o]SLT/UCs]M8S<4*BUENpYCPX[r49O0R<9PCD%7<m+W>h_34B[a(kWbO=b2=(cCUER\-+M%_R+"^'8q>j`aX?CQ2K+mPW1sPH;6Z<E)(<HZnm.:44g_=1@1rMOJm3<3b?1qoWW*MOU+C@4eXV5Lmn2<ZUt/Vt5WPH[jk_"%SEp?sE?\GIDC*c-<rtrV);pr9gMU;'mmiYY;u42u%>7kpU)1jAB+oA,GKR<rMl#&f^`?S2o_+)*'_O:70D:k%F1C#BWPA=,[t.(&61$o4LTaB4RB<i0cTH/rbdQX[u^kmAsIfCVMSbI`$nH8P,80(ie`kZ,XgVbmdi(o:+RB[VV(470S-1IHK\:''cVp8?fNTZ.W5brlV*s'N@n,@f/uJQe9q:hgT@Lrq>pE4\(PCfj^G%"-$<VTa;Yr=SqI76U`Ng$lPeL;[k-Rprm'dIZqHXbZ*pfH28ZVFkTpI5p`bDA_ps7b?u%$C"K?M\8'VJob]K$gpca'ackHg)C2*PL;_$E[9k)LZ"_\e=C.qM"6Vg!:aRdhYY;u42u%>7l%h*/JMK[4;mU+d\ndY59i*8j:aRdhYY;u42u%>7l%h*/JMK+>joYjis+nfD<([O_8II^5'62M24rd*SZBiUWhikfLs0l<GC4MN,5'm30Z=lX@;9,j%]VbkSU]hj+M)ac)*tBP:;'mkkVFLF2gprFEO%\H);Hf_e>4>sgLnekWiBYg'A^UWkdKPoa!bKf3&'I?\Fb:20P)^rS(+>A!W0A&GP88OJ-K:sCHoR407%(DIR<1`kZp:%di57;^8)<+@JYXO5U]no:$S%tVb+o1_QAITd"s4=#*Vlg2k5U5o05/1?A^VB[dK4".Je-$m*-HlE#Ek+KA]d2WjKeRUW'5Xdc,_U$CsC5l)AacB]#D^>Hhag"F7Xqb^RRL$_r/?_qt?:Of.6?oG3%4lJTYN3Z5n"UMg+NLRBfG(dq3[0aa2FT_hY.$A_C,>?W?ZQP`uR5H0<\+rQZHHpkO]_MG;drWqelEjoq+N=_)&_2!KTaBn8$R_1uSGNk3&^"%c#!AWd`T!Um8S=)k=PDWd-,SRZ-cbKSa?:f(D'r_6_UDa+(QjH>8\k0JNn`f**hs&Ytt3TEG+<L%CiM<&3dedV:IRe1&m>#%@L8Y?00NuM0`VG)K.44eX!,:D[R8X#`>:6nU7Fjb=N9tHuq>+ePmn6q`@UMfS[5giNN3')'>``Ep.[*CBZ^Q=mFE90^4XjmoCPuUgi@Uo-J(>e]?HXX&ic;![1%E^=QWRn"@_cEnF>qiA4\Plt>gq3"_$gZS=e)P,i"dRL;A^Z/@b=!=mK+A3MN^Cb5WiE)R5PSVjDQZ"?]_.-o,8@=*g&b]/G4n:%VT=IHVbR]sI_Blh2jZ'mDp?c^.4Hu-ZX0+.e,4(;jGq!_FD95%A:"#1RWLilZp:%di57;^8)<+@JY]'&EE)q?bg-2j+A#VcNeOS?$n/6VE84Xa!;XdSKk&]9P7-F%YBP<-?L^lgV`60Jp8UubmN+;>l&.2%92!1U<;7pm.j(BDZcB"A%Gl[U31=qTV6iLU[,AhW&P([8_h"U.V`6.OPqC_(]t/A<4KX,5nDe2kq"XeV7<0R?fWh$C8#o\ts4,N^^rHH'ZEbOB5.u#2N$RRI2\i4>XK5`"8cN,*X<?#J!Be<JU^JZK"j3VE+-qaCl38=?,TS>nk`/#cDFdGPYH5+N_QIlu>AN*6&$\"8P*p[kg:l_ko)8ChI!4"Sr.Y[4,UA&X]TX'lGP3(Brl)7OI=_<DZJfKF"dRL;A^Z/@b=!=mK+A3MNYHJ4]Xi@XaL,fcF.Q0%Q'p4bqgJ$,aE@NnFD5iC\p6/^c'ja_f/Fh4rb]IQo5]:O8c.`83]EmsOd#CPjN2eU*YC]7Zp:%di57;^8)<+@JYXN5*'I2)gjS6Sl^V8Vq42#)L9Fq^I:;*>ZEb3,GQ'9N1$#o/7ZI9@i'Hu"N^JTGQSG&"/$#UnCA."U2jKVo5;m#+EEP=VGO*hSdaEb<O8`Y:U.;(TX)h2Hr9bsWLe;B4124R[AKm/G_1r+a8(KFee@]8/#ihiL\'u\Fd2<h1<und4k"5\k+!'1;?b]6CA"T>K7qR3opoq$+r0?>gF[C\&454dsc!."Z>BAB[r*dLm2i220bdfP_:0Kl#fWa8YR^Ko/8A0C,^sSqc.]!<kU]hj+M)ac)*tBP:;'mkk-='Fs/PmcGpomH1;)e8h+R+\;Bn8&(JkBa.124R[AKm/G_1r+a8(KF5Dp%[\1#L?%#tL13W0A&GP88OJ-K:sCHoR407%(DIR<1`kZp:%di57;^8)<+@JYXO5U]no:$S%tVb+o1_QAITd"s4=#*Dn.8:aTIE.4n@C/blPD`)/JgE$4D$122:pl%2NAJMLrULLhZi]"s.(8Oo":$^=4!<([O_8II^5'62M2;#gRr%HV_oBkkR`2u%>7!<@Y+n6q1sNk3&^!snr-7"c(L"EDp#4rd)n!$EJ5Qm.?]DXcUM!WW34iPQ?q*-HlE#8.":L^5*"#i_d%HoR2f!'isI0LZOCh;H2%"98EG_M9Rl39g\i%O;#S&.q*"&]@O*1ghHf*]nQ2Qn`K#"onX:KK)RDNJMNX;WciL5Fjd]]K0Nhg:*D%^FVQ4W_X_kA1k2D48\Gcj4Xn]fQQ2gHRDKh]4[2KbW^'c]%1$3d>ptj[Q?_2>YA7_[N^%t!!%ORLnho9LenVXXLu1nP*>@,1asXsa..G0Qn\i+*rXEr2>OSYWiESA>a@4LDV2G%e'Of;2f1#q/X8m[FH242Eq&#W('A?;<E+?mq!cH7(]JgI<--72MR<%eEq2/7GnI`V!!"/4Lnho9Li=8'HOC4R:JJNLgpe(\G?X0Z\UXW4Vb]OkY3"bAX/BRU*kH*OFcK^T2C0Yo/IAKFUSD\,98h6d$`U,_(DbTbXoJHP-:Jn#N^cG+5WVeJr6M34mmp'>^MR3EnujTL39TV2O0<=*QEPf9Z$H/.fN?nORrYoP>[6c%&kC7i2CrCZV"NJ,pu&9N9;OlG\3BrnTW&JmM5(Xp4HR.8*;Sog1Fjq*K,6/DXLol'Trb!JpppqW*'LERs.a.:eeR<3l2CLKCK1Vrhqsuss1]Y(o_4D1EpB.diUN<lH]/lnTR-kC!8L!_-&tG_n3AHO.J_T$A\F7i;R<ZF2l1?HC/'c?#l;]\L#us'UID#UeeJQc93VoD@'1eSMnnt4C2.HW\@%IMV%<T4[S6Nrs18F7!*i#6-&tHJdm2Vg<:iLlC@C]QXe-X4jn.g'^]4;O\dk>Qm2?e-<Vt&;D7R3D`Q-`ab1sW'krEg:?\Xg]V;2s:d\IEH]JffjT]m"XM5(ZV*_>2LjZT$%r4qC8&fhK&4aP<Kn(1ap+c\aUOqO=WDOiR34oI&*joqrRQBh,jC8uP:,:?"8ig]T@!,-pC8fWhHn:,X=G4fU<C9?e58%7UBFrW8Jm/$Cp%mA$gF,(5_?SAgh2.k[Uf4r#(`UAfg!2'q`-uh'f_B2=X]`5_9F/.9:c^4>B2+iJ^`P[I,fWZNDiJa:sHRDL#>OsZG7`[F<l4P&JjP+UtL#64N]]\M+NP6nC!2)mq7u<uQiPU3L!!"4[LFIg7l38=?,QIfU&O&l#`)/Hq#EnVVcBIWK!!"u=&P%\Q&`LWY"98EG_M9Rl39g\i%O;#S&.q*"&]@O*pi%>V!.]mp@>Z1f]"s.(#ljrnKF^uaERYFp!!!!.j`QZ!C;`sL!!%8"3!oWc!"TZ3!<<,X+lXmM!!#,L*!H<BJ;8rU!!!#g&9/Ba!!"&aNWK1\^dH%;!!!"DLc>_A!!!NA7f`Sii$%).!!!!]6lZ@1!.]i\UAt8on.9RR!!!!?,)u^)!5Lt?;#gRrG_e<d!!!!0&Ouj%!8o$[-ia5I4@C.m!!%P)LnaqM!:UP>'EA+5*[6UG!!'f%`)-L7!-j;Z$31&+%hV;4!!(q#i[=d,!'EXh"TSOQLPV]*!!)L"E>/BQ!$3>E!WW596c;h%!!%8"3!oWc!"TZ3!<<,X+lXmM!!#,L*!H<BJ;8rU!!!#g&9/Ba!!"'T=<.;>BindG~>endstream
 endobj
-38 0 obj
-<< /Contents 119 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.fc0648b9c1a121c3407346694e6fe8d5 37 0 R >> >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
-endobj
-39 0 obj
-<< /Contents 120 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
-endobj
 40 0 obj
-<< /Contents 121 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 123 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.fc0648b9c1a121c3407346694e6fe8d5 39 0 R >> >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 41 0 obj
-<< /Contents 122 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 124 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 42 0 obj
-<< /A << /S /URI /Type /Action /URI (http://downloads.tryton.org/TUL2014/crash-course.pdf) >> /Border [ 0 0 0 ] /Rect [ 62.69291 714.0236 301.6929 726.0236 ] /Subtype /Link /Type /Annot >>
+<< /Contents 125 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 43 0 obj
-<< /A << /S /URI /Type /Action /URI (http://hg.tryton.org/) >> /Border [ 0 0 0 ] /Rect [ 123.8129 684.0236 207.7529 696.0236 ] /Subtype /Link /Type /Annot >>
+<< /Contents 126 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 44 0 obj
-<< /A << /S /URI /Type /Action /URI (http://doc.tryton.org/) >> /Border [ 0 0 0 ] /Rect [ 188.3029 666.0236 277.2429 678.0236 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://downloads.tryton.org/TUL2014/crash-course.pdf) >> /Border [ 0 0 0 ] /Rect [ 62.69291 714.0236 301.6929 726.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 45 0 obj
-<< /A << /S /URI /Type /Action /URI (http://www.tryton-erp.es/) >> /Border [ 0 0 0 ] /Rect [ 153.2929 648.0236 261.6629 660.0236 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://hg.tryton.org/) >> /Border [ 0 0 0 ] /Rect [ 123.8129 684.0236 207.7529 696.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 46 0 obj
-<< /Annots [ 42 0 R 43 0 R 44 0 R 45 0 R ] /Contents 123 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
-  /Trans <<  >> /Type /Page >>
+<< /A << /S /URI /Type /Action /URI (http://doc.tryton.org/) >> /Border [ 0 0 0 ] /Rect [ 188.3029 666.0236 277.2429 678.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 47 0 obj
-<< /Outlines 49 0 R /PageLabels 124 0 R /PageMode /UseNone /Pages 96 0 R /Type /Catalog >>
+<< /A << /S /URI /Type /Action /URI (http://www.tryton-erp.es/) >> /Border [ 0 0 0 ] /Rect [ 153.2929 648.0236 261.6629 660.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 48 0 obj
-<< /Author () /CreationDate (D:20171009102608+03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20171009102608+03'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Tryton: Capacitaci\363n t\351cnica) /Trapped /False >>
+<< /Annots [ 44 0 R 45 0 R 46 0 R 47 0 R ] /Contents 127 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 99 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 49 0 obj
-<< /Count 60 /First 50 0 R /Last 95 0 R /Type /Outlines >>
+<< /Outlines 51 0 R /PageLabels 128 0 R /PageMode /UseNone /Pages 99 0 R /Type /Catalog >>
 endobj
 50 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 765.0236 0 ] /Next 51 0 R /Parent 49 0 R /Title (Temario) >>
+<< /Author () /CreationDate (D:20171011111543+03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20171011111543+03'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Tryton: Capacitaci\363n t\351cnica) /Trapped /False >>
 endobj
 51 0 obj
-<< /Count 10 /Dest [ 11 0 R /XYZ 62.69291 765.0236 0 ] /First 52 0 R /Last 58 0 R /Next 62 0 R /Parent 49 0 R 
-  /Prev 50 0 R /Title (1. Presentaci\363n) >>
+<< /Count 61 /First 52 0 R /Last 98 0 R /Type /Outlines >>
 endobj
 52 0 obj
-<< /Count 1 /Dest [ 11 0 R /XYZ 62.69291 710.0236 0 ] /First 53 0 R /Last 53 0 R /Next 54 0 R /Parent 51 0 R 
-  /Title (1.1. Caracter\355sticas generales de Tryton) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 765.0236 0 ] /Next 53 0 R /Parent 51 0 R /Title (Temario) >>
 endobj
 53 0 obj
-<< /Dest [ 11 0 R /XYZ 62.69291 634.0236 0 ] /Parent 52 0 R /Title (Caracter\355sticas) >>
+<< /Count 11 /Dest [ 11 0 R /XYZ 62.69291 765.0236 0 ] /First 54 0 R /Last 61 0 R /Next 65 0 R /Parent 51 0 R 
+  /Prev 52 0 R /Title (1. Instalaci\363n) >>
 endobj
 54 0 obj
-<< /Count 3 /Dest [ 11 0 R /XYZ 62.69291 477.0236 0 ] /First 55 0 R /Last 57 0 R /Next 58 0 R /Parent 51 0 R 
-  /Prev 52 0 R /Title (1.2. Herramientas y entornos de ejecuci\363n) >>
+<< /Count 1 /Dest [ 11 0 R /XYZ 62.69291 710.0236 0 ] /First 55 0 R /Last 55 0 R /Next 56 0 R /Parent 53 0 R 
+  /Title (1.1. Caracter\355sticas generales de Tryton) >>
 endobj
 55 0 obj
-<< /Dest [ 11 0 R /XYZ 62.69291 277.0236 0 ] /Next 56 0 R /Parent 54 0 R /Title (Instalaci\363n de pip y virtualenvwrapper) >>
+<< /Dest [ 11 0 R /XYZ 62.69291 634.0236 0 ] /Parent 54 0 R /Title (Caracter\355sticas) >>
 endobj
 56 0 obj
-<< /Dest [ 13 0 R /XYZ 62.69291 538.2236 0 ] /Next 57 0 R /Parent 54 0 R /Prev 55 0 R /Title (Configuraci\363n de virtualenvwrapper) >>
+<< /Count 4 /Dest [ 11 0 R /XYZ 62.69291 477.0236 0 ] /First 57 0 R /Last 60 0 R /Next 61 0 R /Parent 53 0 R 
+  /Prev 54 0 R /Title (1.2. Herramientas y entornos de ejecuci\363n) >>
 endobj
 57 0 obj
-<< /Dest [ 13 0 R /XYZ 62.69291 170.6236 0 ] /Parent 54 0 R /Prev 56 0 R /Title (Creaci\363n del entorno) >>
+<< /Dest [ 11 0 R /XYZ 62.69291 277.0236 0 ] /Next 58 0 R /Parent 56 0 R /Title (Instalaci\363n de pip y virtualenvwrapper) >>
 endobj
 58 0 obj
-<< /Count 3 /Dest [ 15 0 R /XYZ 62.69291 685.8236 0 ] /First 59 0 R /Last 61 0 R /Parent 51 0 R /Prev 54 0 R 
-  /Title (1.3. Instalaci\363n e inicializaci\363n del servidor) >>
+<< /Dest [ 13 0 R /XYZ 62.69291 538.2236 0 ] /Next 59 0 R /Parent 56 0 R /Prev 57 0 R /Title (Configuraci\363n de virtualenvwrapper) >>
 endobj
 59 0 obj
-<< /Dest [ 15 0 R /XYZ 62.69291 651.8236 0 ] /Next 60 0 R /Parent 58 0 R /Title (Instalaci\363n de m\363dulos) >>
+<< /Dest [ 13 0 R /XYZ 62.69291 170.6236 0 ] /Next 60 0 R /Parent 56 0 R /Prev 58 0 R /Title (Creaci\363n del entorno) >>
 endobj
 60 0 obj
-<< /Dest [ 15 0 R /XYZ 62.69291 183.8236 0 ] /Next 61 0 R /Parent 58 0 R /Prev 59 0 R /Title (El archivo trytond.conf) >>
+<< /Dest [ 16 0 R /XYZ 62.69291 703.8236 0 ] /Parent 56 0 R /Prev 59 0 R /Title ('pyenv' y las versiones de Python) >>
 endobj
 61 0 obj
-<< /Dest [ 16 0 R /XYZ 62.69291 565.8236 0 ] /Parent 58 0 R /Prev 60 0 R /Title (Creaci\363n e inicializaci\363n de la base de datos) >>
+<< /Count 3 /Dest [ 17 0 R /XYZ 62.69291 765.0236 0 ] /First 62 0 R /Last 64 0 R /Parent 53 0 R /Prev 56 0 R 
+  /Title (1.3. Instalaci\363n e inicializaci\363n del servidor) >>
 endobj
 62 0 obj
-<< /Count 9 /Dest [ 18 0 R /XYZ 62.69291 765.0236 0 ] /First 63 0 R /Last 71 0 R /Next 72 0 R /Parent 49 0 R 
-  /Prev 51 0 R /Title (2. Un m\363dulo b\341sico) >>
+<< /Dest [ 17 0 R /XYZ 62.69291 731.0236 0 ] /Next 63 0 R /Parent 61 0 R /Title (Instalaci\363n de m\363dulos) >>
 endobj
 63 0 obj
-<< /Dest [ 18 0 R /XYZ 62.69291 501.8236 0 ] /Next 64 0 R /Parent 62 0 R /Title (2.1. Crear un modelo) >>
+<< /Dest [ 17 0 R /XYZ 62.69291 263.0236 0 ] /Next 64 0 R /Parent 61 0 R /Prev 62 0 R /Title (El archivo trytond.conf) >>
 endobj
 64 0 obj
-<< /Dest [ 19 0 R /XYZ 62.69291 765.0236 0 ] /Next 65 0 R /Parent 62 0 R /Prev 63 0 R /Title (2.2. Agregar campos a un modelo) >>
+<< /Dest [ 18 0 R /XYZ 62.69291 637.8236 0 ] /Parent 61 0 R /Prev 63 0 R /Title (Creaci\363n e inicializaci\363n de la base de datos) >>
 endobj
 65 0 obj
-<< /Dest [ 19 0 R /XYZ 62.69291 207.8236 0 ] /Next 66 0 R /Parent 62 0 R /Prev 64 0 R /Title (2.3. Los campos del modelo: su representaci\363n gr\341fica y en base de datos) >>
+<< /Count 9 /Dest [ 20 0 R /XYZ 62.69291 765.0236 0 ] /First 66 0 R /Last 74 0 R /Next 75 0 R /Parent 51 0 R 
+  /Prev 53 0 R /Title (2. Un m\363dulo b\341sico) >>
 endobj
 66 0 obj
-<< /Count 4 /Dest [ 24 0 R /XYZ 62.69291 765.0236 0 ] /First 67 0 R /Last 70 0 R /Next 71 0 R /Parent 62 0 R 
-  /Prev 65 0 R /Title (2.4. La presentaci\363n gr\341fica de los datos) >>
+<< /Dest [ 20 0 R /XYZ 62.69291 501.8236 0 ] /Next 67 0 R /Parent 65 0 R /Title (2.1. Crear un modelo) >>
 endobj
 67 0 obj
-<< /Dest [ 24 0 R /XYZ 62.69291 474.6236 0 ] /Next 68 0 R /Parent 66 0 R /Title (Vista Tree) >>
+<< /Dest [ 21 0 R /XYZ 62.69291 765.0236 0 ] /Next 68 0 R /Parent 65 0 R /Prev 66 0 R /Title (2.2. Agregar campos a un modelo) >>
 endobj
 68 0 obj
-<< /Dest [ 24 0 R /XYZ 62.69291 189.2236 0 ] /Next 69 0 R /Parent 66 0 R /Prev 67 0 R /Title (Vista Form) >>
+<< /Dest [ 21 0 R /XYZ 62.69291 207.8236 0 ] /Next 69 0 R /Parent 65 0 R /Prev 67 0 R /Title (2.3. Los campos del modelo: su representaci\363n gr\341fica y en base de datos) >>
 endobj
 69 0 obj
-<< /Dest [ 25 0 R /XYZ 62.69291 514.6236 0 ] /Next 70 0 R /Parent 66 0 R /Prev 68 0 R /Title (Armando las piezas) >>
+<< /Count 4 /Dest [ 26 0 R /XYZ 62.69291 765.0236 0 ] /First 70 0 R /Last 73 0 R /Next 74 0 R /Parent 65 0 R 
+  /Prev 68 0 R /Title (2.4. La presentaci\363n gr\341fica de los datos) >>
 endobj
 70 0 obj
-<< /Dest [ 25 0 R /XYZ 62.69291 155.2236 0 ] /Parent 66 0 R /Prev 69 0 R /Title (Agregar entradas al men\372) >>
+<< /Dest [ 26 0 R /XYZ 62.69291 474.6236 0 ] /Next 71 0 R /Parent 69 0 R /Title (Vista Tree) >>
 endobj
 71 0 obj
-<< /Dest [ 26 0 R /XYZ 62.69291 669.8236 0 ] /Parent 62 0 R /Prev 66 0 R /Title (2.5. Responder a las acciones del usuario: on_change) >>
+<< /Dest [ 26 0 R /XYZ 62.69291 189.2236 0 ] /Next 72 0 R /Parent 69 0 R /Prev 70 0 R /Title (Vista Form) >>
 endobj
 72 0 obj
-<< /Count 16 /Dest [ 27 0 R /XYZ 62.69291 765.0236 0 ] /First 73 0 R /Last 86 0 R /Next 89 0 R /Parent 49 0 R 
-  /Prev 62 0 R /Title (3. Caracter\355sticas avanzadas) >>
+<< /Dest [ 27 0 R /XYZ 62.69291 514.6236 0 ] /Next 73 0 R /Parent 69 0 R /Prev 71 0 R /Title (Armando las piezas) >>
 endobj
 73 0 obj
-<< /Count 1 /Dest [ 27 0 R /XYZ 62.69291 710.0236 0 ] /First 74 0 R /Last 74 0 R /Next 75 0 R /Parent 72 0 R 
-  /Title (3.1. Workflows) >>
+<< /Dest [ 27 0 R /XYZ 62.69291 155.2236 0 ] /Parent 69 0 R /Prev 72 0 R /Title (Agregar entradas al men\372) >>
 endobj
 74 0 obj
-<< /Dest [ 27 0 R /XYZ 62.69291 207.2236 0 ] /Parent 73 0 R /Title (Agregar botones en la vista) >>
+<< /Dest [ 28 0 R /XYZ 62.69291 669.8236 0 ] /Parent 65 0 R /Prev 69 0 R /Title (2.5. Responder a las acciones del usuario: on_change) >>
 endobj
 75 0 obj
-<< /Count 2 /Dest [ 28 0 R /XYZ 62.69291 475.8236 0 ] /First 76 0 R /Last 77 0 R /Next 78 0 R /Parent 72 0 R 
-  /Prev 73 0 R /Title (3.2. Mejorando las vistas) >>
+<< /Count 16 /Dest [ 29 0 R /XYZ 62.69291 765.0236 0 ] /First 76 0 R /Last 89 0 R /Next 92 0 R /Parent 51 0 R 
+  /Prev 65 0 R /Title (3. Caracter\355sticas avanzadas) >>
 endobj
 76 0 obj
-<< /Dest [ 28 0 R /XYZ 62.69291 276.6236 0 ] /Next 77 0 R /Parent 75 0 R /Title (Formularios din\341micos) >>
+<< /Count 1 /Dest [ 29 0 R /XYZ 62.69291 710.0236 0 ] /First 77 0 R /Last 77 0 R /Next 78 0 R /Parent 75 0 R 
+  /Title (3.1. Workflows) >>
 endobj
 77 0 obj
-<< /Dest [ 29 0 R /XYZ 62.69291 765.0236 0 ] /Parent 75 0 R /Prev 76 0 R /Title (Pyson) >>
+<< /Dest [ 29 0 R /XYZ 62.69291 207.2236 0 ] /Parent 76 0 R /Title (Agregar botones en la vista) >>
 endobj
 78 0 obj
-<< /Count 2 /Dest [ 29 0 R /XYZ 62.69291 484.4236 0 ] /First 79 0 R /Last 80 0 R /Next 81 0 R /Parent 72 0 R 
-  /Prev 75 0 R /Title (3.3. Los campos function) >>
+<< /Count 2 /Dest [ 30 0 R /XYZ 62.69291 475.8236 0 ] /First 79 0 R /Last 80 0 R /Next 81 0 R /Parent 75 0 R 
+  /Prev 76 0 R /Title (3.2. Mejorando las vistas) >>
 endobj
 79 0 obj
-<< /Dest [ 29 0 R /XYZ 62.69291 173.8236 0 ] /Next 80 0 R /Parent 78 0 R /Title (Setter y searcher) >>
+<< /Dest [ 30 0 R /XYZ 62.69291 276.6236 0 ] /Next 80 0 R /Parent 78 0 R /Title (Formularios din\341micos) >>
 endobj
 80 0 obj
-<< /Dest [ 31 0 R /XYZ 62.69291 765.0236 0 ] /Parent 78 0 R /Prev 79 0 R /Title (Campos function que operan por lotes) >>
+<< /Dest [ 31 0 R /XYZ 62.69291 765.0236 0 ] /Parent 78 0 R /Prev 79 0 R /Title (Pyson) >>
 endobj
 81 0 obj
-<< /Count 4 /Dest [ 31 0 R /XYZ 62.69291 466.8236 0 ] /First 82 0 R /Last 85 0 R /Next 86 0 R /Parent 72 0 R 
-  /Prev 78 0 R /Title (3.4. Wizards \(asistentes\)) >>
+<< /Count 2 /Dest [ 31 0 R /XYZ 62.69291 484.4236 0 ] /First 82 0 R /Last 83 0 R /Next 84 0 R /Parent 75 0 R 
+  /Prev 78 0 R /Title (3.3. Los campos function) >>
 endobj
 82 0 obj
-<< /Dest [ 31 0 R /XYZ 62.69291 432.8236 0 ] /Next 83 0 R /Parent 81 0 R /Title (Agregar acciones a un modelo) >>
+<< /Dest [ 31 0 R /XYZ 62.69291 173.8236 0 ] /Next 83 0 R /Parent 81 0 R /Title (Setter y searcher) >>
 endobj
 83 0 obj
-<< /Dest [ 31 0 R /XYZ 62.69291 311.8236 0 ] /Next 84 0 R /Parent 81 0 R /Prev 82 0 R /Title (Vistas de wizard) >>
+<< /Dest [ 33 0 R /XYZ 62.69291 765.0236 0 ] /Parent 81 0 R /Prev 82 0 R /Title (Campos function que operan por lotes) >>
 endobj
 84 0 obj
-<< /Dest [ 31 0 R /XYZ 62.69291 161.6236 0 ] /Next 85 0 R /Parent 81 0 R /Prev 83 0 R /Title (Una m\341quina de estados) >>
+<< /Count 4 /Dest [ 33 0 R /XYZ 62.69291 466.8236 0 ] /First 85 0 R /Last 88 0 R /Next 89 0 R /Parent 75 0 R 
+  /Prev 81 0 R /Title (3.4. Wizards \(asistentes\)) >>
 endobj
 85 0 obj
-<< /Dest [ 32 0 R /XYZ 62.69291 408.4236 0 ] /Parent 81 0 R /Prev 84 0 R /Title (Activaci\363n del wizard) >>
+<< /Dest [ 33 0 R /XYZ 62.69291 432.8236 0 ] /Next 86 0 R /Parent 84 0 R /Title (Agregar acciones a un modelo) >>
 endobj
 86 0 obj
-<< /Count 2 /Dest [ 33 0 R /XYZ 62.69291 625.8236 0 ] /First 87 0 R /Last 88 0 R /Parent 72 0 R /Prev 81 0 R 
-  /Title (3.5. C\363mo extender objetos preexistentes) >>
+<< /Dest [ 33 0 R /XYZ 62.69291 311.8236 0 ] /Next 87 0 R /Parent 84 0 R /Prev 85 0 R /Title (Vistas de wizard) >>
 endobj
 87 0 obj
-<< /Dest [ 33 0 R /XYZ 62.69291 591.8236 0 ] /Next 88 0 R /Parent 86 0 R /Title (La metaclase PoolMeta) >>
+<< /Dest [ 33 0 R /XYZ 62.69291 161.6236 0 ] /Next 88 0 R /Parent 84 0 R /Prev 86 0 R /Title (Una m\341quina de estados) >>
 endobj
 88 0 obj
-<< /Dest [ 33 0 R /XYZ 62.69291 243.6236 0 ] /Parent 86 0 R /Prev 87 0 R /Title (Extender las vistas) >>
+<< /Dest [ 34 0 R /XYZ 62.69291 408.4236 0 ] /Parent 84 0 R /Prev 87 0 R /Title (Activaci\363n del wizard) >>
 endobj
 89 0 obj
-<< /Count 5 /Dest [ 36 0 R /XYZ 62.69291 765.0236 0 ] /First 90 0 R /Last 94 0 R /Next 95 0 R /Parent 49 0 R 
-  /Prev 72 0 R /Title (4. Temas adicionales) >>
+<< /Count 2 /Dest [ 35 0 R /XYZ 62.69291 625.8236 0 ] /First 90 0 R /Last 91 0 R /Parent 75 0 R /Prev 84 0 R 
+  /Title (3.5. C\363mo extender objetos preexistentes) >>
 endobj
 90 0 obj
-<< /Dest [ 36 0 R /XYZ 62.69291 710.0236 0 ] /Next 91 0 R /Parent 89 0 R /Title (4.1. Reportes) >>
+<< /Dest [ 35 0 R /XYZ 62.69291 591.8236 0 ] /Next 91 0 R /Parent 89 0 R /Title (La metaclase PoolMeta) >>
 endobj
 91 0 obj
-<< /Count 2 /Dest [ 38 0 R /XYZ 62.69291 221.1824 0 ] /First 92 0 R /Last 93 0 R /Next 94 0 R /Parent 89 0 R 
-  /Prev 90 0 R /Title (4.2. Permisos y reglas de acceso) >>
+<< /Dest [ 35 0 R /XYZ 62.69291 243.6236 0 ] /Parent 89 0 R /Prev 90 0 R /Title (Extender las vistas) >>
 endobj
 92 0 obj
-<< /Dest [ 39 0 R /XYZ 62.69291 679.8236 0 ] /Next 93 0 R /Parent 91 0 R /Title (Definici\363n de reglas de acceso) >>
+<< /Count 5 /Dest [ 38 0 R /XYZ 62.69291 765.0236 0 ] /First 93 0 R /Last 97 0 R /Next 98 0 R /Parent 51 0 R 
+  /Prev 75 0 R /Title (4. Temas adicionales) >>
 endobj
 93 0 obj
-<< /Dest [ 39 0 R /XYZ 62.69291 534.8236 0 ] /Parent 91 0 R /Prev 92 0 R /Title (Grupos de usuarios) >>
+<< /Dest [ 38 0 R /XYZ 62.69291 710.0236 0 ] /Next 94 0 R /Parent 92 0 R /Title (4.1. Reportes) >>
 endobj
 94 0 obj
-<< /Dest [ 40 0 R /XYZ 62.69291 550.6236 0 ] /Parent 89 0 R /Prev 91 0 R /Title (4.3. proteus) >>
+<< /Count 2 /Dest [ 40 0 R /XYZ 62.69291 221.1824 0 ] /First 95 0 R /Last 96 0 R /Next 97 0 R /Parent 92 0 R 
+  /Prev 93 0 R /Title (4.2. Permisos y reglas de acceso) >>
 endobj
 95 0 obj
-<< /Dest [ 46 0 R /XYZ 62.69291 765.0236 0 ] /Parent 49 0 R /Prev 89 0 R /Title (5. Referencias y fuentes) >>
+<< /Dest [ 41 0 R /XYZ 62.69291 679.8236 0 ] /Next 96 0 R /Parent 94 0 R /Title (Definici\363n de reglas de acceso) >>
 endobj
 96 0 obj
-<< /Count 27 /Kids [ 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 14 0 R 15 0 R 16 0 R 18 0 R 19 0 R 
-  23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 31 0 R 32 0 R 33 0 R 
-  34 0 R 36 0 R 38 0 R 39 0 R 40 0 R 41 0 R 46 0 R ] /Type /Pages >>
+<< /Dest [ 41 0 R /XYZ 62.69291 534.8236 0 ] /Parent 94 0 R /Prev 95 0 R /Title (Grupos de usuarios) >>
 endobj
 97 0 obj
+<< /Dest [ 42 0 R /XYZ 62.69291 550.6236 0 ] /Parent 92 0 R /Prev 94 0 R /Title (4.3. proteus) >>
+endobj
+98 0 obj
+<< /Dest [ 48 0 R /XYZ 62.69291 765.0236 0 ] /Parent 51 0 R /Prev 92 0 R /Title (5. Referencias y fuentes) >>
+endobj
+99 0 obj
+<< /Count 28 /Kids [ 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 14 0 R 16 0 R 17 0 R 18 0 R 20 0 R 
+  21 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 33 0 R 34 0 R 
+  35 0 R 36 0 R 38 0 R 40 0 R 41 0 R 42 0 R 43 0 R 48 0 R ] /Type /Pages >>
+endobj
+100 0 obj
 << /Length 686 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -378,7 +388,7 @@ Q
  
 endstream
 endobj
-98 0 obj
+101 0 obj
 << /Length 1294 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -456,8 +466,8 @@ Q
  
 endstream
 endobj
-99 0 obj
-<< /Length 3309 >>
+102 0 obj
+<< /Length 3308 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -470,7 +480,7 @@ q
 1 0 0 1 62.69291 717.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.8 Tm /F2 14 Tf 16.8 TL (1. Presentaci\363n) Tj T* ET
+BT 1 0 0 1 0 2.8 Tm /F2 14 Tf 16.8 TL (1. Instalaci\363n) Tj T* ET
 Q
 Q
 q
@@ -622,14 +632,14 @@ Q
  
 endstream
 endobj
-100 0 obj
-<< /Length 6263 >>
+103 0 obj
+<< /Length 6260 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 744.0236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1. Presentaci\363n) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1. Instalaci\363n) Tj T* ET
 Q
 Q
 q
@@ -654,7 +664,7 @@ Q
 q
 1 0 0 1 62.69291 601.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (. Escrito en Python) Tj /F1 10 Tf (: Para ejecutar Tryton \(versi\363n 4.4\) se requiere Python 2.7.9 o superior.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (. Escrito en Python) Tj /F1 10 Tf (: Para ejecutar Tryton \(versi\363n 4.4\) se requiere Python 2.7 o superior.) Tj T* ET
 Q
 Q
 q
@@ -918,7 +928,7 @@ Q
  
 endstream
 endobj
-101 0 obj
+104 0 obj
 << /Length 6694 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1244,7 +1254,7 @@ Q
  
 endstream
 endobj
-102 0 obj
+105 0 obj
 << /Length 5675 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1430,8 +1440,8 @@ Q
  
 endstream
 endobj
-103 0 obj
-<< /Length 6020 >>
+106 0 obj
+<< /Length 6144 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1462,38 +1472,257 @@ BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (El efecto de este comando ser\355a b
 Q
 Q
 q
-1 0 0 1 62.69291 667.8236 cm
+1 0 0 1 62.69291 688.8236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg ('pyenv' y las versiones de Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 634.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.717984 Tw (Es posible que el sistema donde se intenta instalar Tryton tenga alguna versi\363n antigua del lenguaje) Tj T* 0 Tw 2.02811 Tw (Python. Por eso es importante verificar en la p\341gina oficial, o en la documentaci\363n de los paquetes) Tj T* 0 Tw 1.127984 Tw (disponibles para descarga, cu\341l es la versi\363n m\355nima de Python necesaria para ejecutar el servidor de) Tj T* 0 Tw (Tryton o el programa cliente.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 604.8236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.681318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Para los casos en que el sistema no tenga disponible una versi\363n adecuada, existe una herramienta) Tj T* 0 Tw (llamada ) Tj /F3 10 Tf (pyenv) Tj /F1 10 Tf (, que se puede utilizar en combinaci\363n con ) Tj /F3 10 Tf (virtualenv) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 574.8236 cm
+q
+BT 1 0 0 1 0 14 Tm 4.593828 Tw 12 TL /F3 10 Tf 0 0 0 rg (pyenv ) Tj /F1 10 Tf (permite instalar distintas versiones de Python y activar cualquiera de ellas en distintas) Tj T* 0 Tw (circunstancias, seg\372n se requiera.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 532.8236 cm
+q
+BT 1 0 0 1 0 26 Tm 5.406136 Tw 12 TL /F1 10 Tf 0 0 0 rg (En primer lugar se necesita instalar ) Tj /F3 10 Tf (pyenv ) Tj /F1 10 Tf (siguiendo las instrucciones de su p\341gina oficial:) Tj T* 0 Tw 1.245976 Tw 0 0 .501961 rg (https://github.com/pyenv/pyenv) Tj 0 0 0 rg (. Una vez disponible en nuestro sistema, podemos solicitarle que instale) Tj T* 0 Tw (una determinada versi\363n de Python, por ejemplo:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 499.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL ($ pyenv install 3.6.0) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 479.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A continuaci\363n es posible activar esta versi\363n de Python para todo el sistema, con el comando) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 446.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL ($ pyenv global 3.6.0) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 402.4236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.094104 Tw 12 TL /F1 10 Tf 0 0 0 rg (Finalmente, si se quiere utilizar esta versi\363n de Python para crear el entorno virtual, hay que recurrir a) Tj T* 0 Tw .234269 Tw /F3 10 Tf (virtualenv) Tj /F1 10 Tf (. Por ejemplo, dentro de la carpeta ) Tj /F3 10 Tf (~/.virtualenvs/) Tj /F1 10 Tf (, que es donde suelen localizarse los entornos) Tj T* 0 Tw (virtuales, se puede crear el entorno ) Tj /F3 10 Tf (tryton-4.4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 369.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL ($ virtualenv ~/.virtualenvs/tryton-4.4) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 337.2236 cm
+q
+BT 1 0 0 1 0 14 Tm .681984 Tw 12 TL /F1 10 Tf 0 0 0 rg (Si la versi\363n de Python deseada fue activada correctamente con ) Tj /F3 10 Tf (pyenv) Tj /F1 10 Tf (, el comando ) Tj /F3 10 Tf (virtualenv ) Tj /F1 10 Tf (crear\341 el) Tj T* 0 Tw (entorno virtual utilizando esa versi\363n de Python.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 319.2236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Cuando se quiera activar el entorno virtual, simplemente hay que ejecutar el comando ) Tj /F3 10 Tf (activate) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 286.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL ($ source ~/.virtualenvs/tryton-4.4/bin/activate) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 254.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .502927 Tw 12 TL /F1 10 Tf 0 0 0 rg (Finalmente, si se us\363 el comando ) Tj /F3 10 Tf (pyenv global ) Tj /F1 10 Tf (para activar una nueva versi\363n de Python, pero luego se) Tj T* 0 Tw (desea volver a dejar la versi\363n original del sistema, hay que ejecutar:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 220.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL ($ pyenv global system) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 133.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.6 8.6 cm
+q
+.5 w
+.662745 .662745 .662745 RG
+.960784 .960784 .862745 rg
+n 0 0 435.2898 62 re
+B*
+Q
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.6 38.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Entender pyenv) Tj T* ET
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 8.6 8.6 cm
+q
+BT 1 0 0 1 0 14 Tm 2.923976 Tw 12 TL /F1 10 Tf 0 0 0 rg (Se recomienda estudiar la documentaci\363n para comprender las distintas posibilidades y) Tj T* 0 Tw (herramientas de configuraci\363n que ofrece ) Tj /F3 10 Tf (pyenv) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 56.69291 42.51969 cm
+q
+BT 1 0 0 1 0 2 Tm 92.09488 0 Td 12 TL /F3 10 Tf 0 0 0 rg (Silix - Soluciones Inform\341ticas Libres ) Tj /F1 10 Tf (| ) Tj /F3 10 Tf (Tryton: Capacitaci\363n t\351cnica) Tj T* -92.09488 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+107 0 obj
+<< /Length 5718 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.3. Instalaci\363n e inicializaci\363n del servidor) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 636.8236 cm
+1 0 0 1 62.69291 716.0236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Instalaci\363n de m\363dulos) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 582.8236 cm
+1 0 0 1 62.69291 662.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.444983 Tw (Los m\363dulos oficiales de Tryton, como cualquier paquete o m\363dulo Python, pueden instalarse con las) Tj T* 0 Tw 7.305976 Tw (diversas herramientas ofrecidas por ese lenguaje. Podr\355an incluso tambi\351n descargarse y) Tj T* 0 Tw 2.36284 Tw (descomprimirse en alg\372n lugar del sistema de archivos, y ejecutarse sin recurrir a herramientas de) Tj T* 0 Tw (instalaci\363n.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 552.8236 cm
+1 0 0 1 62.69291 632.0236 cm
 q
 BT 1 0 0 1 0 14 Tm .105542 Tw 12 TL /F1 10 Tf 0 0 0 rg (En nuestro caso veremos la instalaci\363n por medio de ) Tj /F3 10 Tf (pip) Tj /F1 10 Tf (, a fin de aprovechar las ventajas y la comodidad) Tj T* 0 Tw (que ofrece.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 522.8236 cm
+1 0 0 1 62.69291 602.0236 cm
 q
 BT 1 0 0 1 0 14 Tm .091318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Siempre dentro del entorno creado, para instalar la \372ltima versi\363n del servidor de Tryton \() Tj /F3 10 Tf (trytond) Tj /F1 10 Tf (\) bastar\355a) Tj T* 0 Tw (con ejecutar.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 489.6236 cm
+1 0 0 1 62.69291 568.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1514,14 +1743,14 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 457.6236 cm
+1 0 0 1 62.69291 536.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .929986 Tw (Si se pretende instalar una versi\363n espec\355fica, o si se prefiere indicar la versi\363n de manera expl\355cita, el) Tj T* 0 Tw (comando tendr\355a la forma siguiente:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 424.4236 cm
+1 0 0 1 62.69291 503.6236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1542,14 +1771,14 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 404.4236 cm
+1 0 0 1 62.69291 483.6236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Adem\341s del servidor, pueden instalarse otros m\363dulos de Tryton, por ejemplo:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 371.2236 cm
+1 0 0 1 62.69291 450.4236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1570,13 +1799,13 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 327.2236 cm
+1 0 0 1 62.69291 406.4236 cm
 q
 BT 1 0 0 1 0 26 Tm 1.82498 Tw 12 TL /F1 10 Tf 0 0 0 rg (Esto instala el m\363dulo ) Tj /F3 10 Tf (account ) Tj /F1 10 Tf (\(cuentas contables\), junto con sus dependencias: ) Tj /F3 10 Tf (company, currency,) Tj T* 0 Tw 1.059398 Tw (country, party) Tj /F1 10 Tf (, dentro de la carpeta ) Tj /F3 10 Tf (modules ) Tj /F1 10 Tf (del servidor ) Tj /F3 10 Tf (trytond) Tj /F1 10 Tf (, en el entorno virtual. Es decir que en) Tj T* 0 Tw (este caso instalamos cinco m\363dulos.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 199.8236 cm
+1 0 0 1 62.69291 279.0236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1615,19 +1844,19 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 168.8236 cm
+1 0 0 1 62.69291 248.0236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (El archivo trytond.conf) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 126.8236 cm
+1 0 0 1 62.69291 206.0236 cm
 q
 BT 1 0 0 1 0 26 Tm 2.751647 Tw 12 TL /F1 10 Tf 0 0 0 rg (Algunas caracter\355sticas de funcionamiento de Tryton pueden configurarse por medio de un archivo) Tj T* 0 Tw 2.368443 Tw (denominado ) Tj /F3 10 Tf (trytond.conf) Tj /F1 10 Tf (, que tiene un formato semejante a los conocidos archivos ) Tj /F3 10 Tf (ini) Tj /F1 10 Tf (. Consiste de) Tj T* 0 Tw (secciones definidas entre corchetes [], a las que siguen entradas definidas por nombre = valor.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 81.62362 cm
+1 0 0 1 62.69291 88.82362 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1637,11 +1866,11 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 468.6898 36 re B*
+n -6 -6 468.6898 108 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F5 10 Tf 12 TL ([jsonrpc]) Tj T* (listen=*:8000) Tj T* ET
+BT 1 0 0 1 0 86 Tm /F5 10 Tf 12 TL ([jsonrpc]) Tj T* (listen=*:8000) Tj T* (data=/var/www/localhost/tryton) Tj T*  T* ([database]) Tj T* (uri=postgresql://usuario:password@localhost:5432) Tj T* (path=/var/lib/tryton/data # directorio donde se guardaran los adjuntos) Tj T*  T* ET
 Q
 Q
 Q
@@ -1656,12 +1885,12 @@ Q
  
 endstream
 endobj
-104 0 obj
-<< /Length 5231 >>
+108 0 obj
+<< /Length 5028 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 655.8236 cm
+1 0 0 1 62.69291 727.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1671,42 +1900,42 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 468.6898 108 re B*
+n -6 -6 468.6898 36 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 86 Tm /F5 10 Tf 12 TL (data=/var/www/localhost/tryton) Tj T*  T* ([database]) Tj T* (uri=postgresql://usuario:password@localhost:5432) Tj T* (path=/var/lib/tryton/data # directorio donde se guardaran los adjuntos) Tj T*  T* ([session]) Tj T* (timeout=3600) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F5 10 Tf 12 TL ([session]) Tj T* (timeout=3600) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 62.69291 611.8236 cm
+1 0 0 1 62.69291 683.8236 cm
 q
 BT 1 0 0 1 0 26 Tm 1.965814 Tw 12 TL /F1 10 Tf 0 0 0 rg (Tryton podr\355a funcionar sin un archivo ) Tj /F3 10 Tf (trytond.conf) Tj /F1 10 Tf (. Pero normalmente querremos tenerlo. Es posible) Tj T* 0 Tw 1.926235 Tw (ubicarlo en cualquier lugar del sistema de archivos, y no hay que olvidar indicarle al servidor d\363nde) Tj T* 0 Tw (encontrarlo, con la opci\363n ) Tj /F2 10 Tf (-c) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 581.8236 cm
+1 0 0 1 62.69291 653.8236 cm
 q
 BT 1 0 0 1 0 14 Tm .39686 Tw 12 TL /F1 10 Tf 0 0 0 rg (Por ejemplo, este archivo podr\355a guardarse dentro de ) Tj /F3 10 Tf (/etc/) Tj /F1 10 Tf (, en el sistema de archivos de GNU/Linux. Por) Tj T* 0 Tw (lo tanto, para invocarlo al ejecutar el servidor hay que indicar: ) Tj /F3 10 Tf (-c /etc/trytond.conf) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 550.8236 cm
+1 0 0 1 62.69291 622.8236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Creaci\363n e inicializaci\363n de la base de datos) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 508.8236 cm
+1 0 0 1 62.69291 580.8236 cm
 q
 BT 1 0 0 1 0 26 Tm 2.497633 Tw 12 TL /F1 10 Tf 0 0 0 rg (Para poder utilizar la base de datos ser\341 necesario tener un usuario. Este usuario ser\341 el que se) Tj T* 0 Tw .900814 Tw (configurar\341 en ) Tj /F3 10 Tf (trytond.conf) Tj /F1 10 Tf (. En nuestro caso, utilizamos PostgreSQL, y llamaremos ) Tj /F3 10 Tf (dbadmin ) Tj /F1 10 Tf (al usuario.) Tj T* 0 Tw (Desde la l\355nea de comandos, ejecutar:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 475.6236 cm
+1 0 0 1 62.69291 547.6236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1727,14 +1956,14 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 455.6236 cm
+1 0 0 1 62.69291 527.6236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A continuaci\363n se debe crear la base de datos, llamada en este caso 'tryton44') Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 422.4236 cm
+1 0 0 1 62.69291 494.4236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1755,13 +1984,13 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 390.4236 cm
+1 0 0 1 62.69291 462.4236 cm
 q
 BT 1 0 0 1 0 14 Tm .307045 Tw 12 TL /F1 10 Tf 0 0 0 rg (Es necesario editar el archivo ) Tj /F3 10 Tf (trytond.conf) Tj /F1 10 Tf (, en la entrada ) Tj /F3 10 Tf (uri ) Tj /F1 10 Tf (de la secci\363n ) Tj /F3 10 Tf ([database]) Tj /F1 10 Tf (. All\355 hay que indicar) Tj T* 0 Tw (el usuario y contrase\361a que se ha definido.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 357.2236 cm
+1 0 0 1 62.69291 429.2236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1782,19 +2011,19 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 313.2236 cm
+1 0 0 1 62.69291 385.2236 cm
 q
 BT 1 0 0 1 0 26 Tm 2.102485 Tw 12 TL /F1 10 Tf 0 0 0 rg (El siguiente paso es inicializar la base de datos 'tryton44'. Para esto es necesario tener activado el) Tj T* 0 Tw 1.61186 Tw (entorno virtual. El par\341metro ) Tj /F3 10 Tf (-p ) Tj /F1 10 Tf (har\341 que al finalizar este proceso se pida una contrase\361a de usuario) Tj T* 0 Tw /F3 10 Tf (admin) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 283.2236 cm
+1 0 0 1 62.69291 355.2236 cm
 q
 BT 1 0 0 1 0 14 Tm .374104 Tw 12 TL /F1 10 Tf 0 0 0 rg (Hay que tener en claro que este usuario ) Tj /F3 10 Tf (admin ) Tj /F1 10 Tf (es el usuario administrador del sistema Tryton cuya base) Tj T* 0 Tw (de datos estamos inicializando. Es distinto del usuario ) Tj /F3 10 Tf (dbadmin) Tj /F1 10 Tf (, de PostgreSQL.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 250.0236 cm
+1 0 0 1 62.69291 322.0236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1815,14 +2044,14 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 230.0236 cm
+1 0 0 1 62.69291 302.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Al terminar, estaremos en condiciones de ejecutar el servidor Tryton) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 196.8236 cm
+1 0 0 1 62.69291 268.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1843,7 +2072,7 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 188.8236 cm
+1 0 0 1 62.69291 260.8236 cm
 Q
 q
 1 0 0 1 56.69291 42.51969 cm
@@ -1854,7 +2083,7 @@ Q
  
 endstream
 endobj
-105 0 obj
+109 0 obj
 << /Length 7539 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2119,7 +2348,7 @@ Q
  
 endstream
 endobj
-106 0 obj
+110 0 obj
 << /Length 11969 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2506,7 +2735,7 @@ Q
  
 endstream
 endobj
-107 0 obj
+111 0 obj
 << /Length 8515 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2900,7 +3129,7 @@ Q
  
 endstream
 endobj
-108 0 obj
+112 0 obj
 << /Length 12660 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3338,7 +3567,7 @@ Q
  
 endstream
 endobj
-109 0 obj
+113 0 obj
 << /Length 19012 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3852,7 +4081,7 @@ Q
  
 endstream
 endobj
-110 0 obj
+114 0 obj
 << /Length 9697 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -4165,7 +4394,7 @@ Q
  
 endstream
 endobj
-111 0 obj
+115 0 obj
 << /Length 13886 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -4592,7 +4821,7 @@ Q
  
 endstream
 endobj
-112 0 obj
+116 0 obj
 << /Length 17066 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -5050,7 +5279,7 @@ Q
  
 endstream
 endobj
-113 0 obj
+117 0 obj
 << /Length 11672 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -5410,7 +5639,7 @@ Q
  
 endstream
 endobj
-114 0 obj
+118 0 obj
 << /Length 10635 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -5752,7 +5981,7 @@ Q
  
 endstream
 endobj
-115 0 obj
+119 0 obj
 << /Length 17842 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -6239,7 +6468,7 @@ Q
  
 endstream
 endobj
-116 0 obj
+120 0 obj
 << /Length 11630 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -6556,7 +6785,7 @@ Q
  
 endstream
 endobj
-117 0 obj
+121 0 obj
 << /Length 3679 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -6662,7 +6891,7 @@ Q
  
 endstream
 endobj
-118 0 obj
+122 0 obj
 << /Length 11111 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -6925,7 +7154,7 @@ Q
  
 endstream
 endobj
-119 0 obj
+123 0 obj
 << /Length 10187 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -7193,7 +7422,7 @@ Q
  
 endstream
 endobj
-120 0 obj
+124 0 obj
 << /Length 15783 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -7596,7 +7825,7 @@ Q
  
 endstream
 endobj
-121 0 obj
+125 0 obj
 << /Length 17051 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -8059,7 +8288,7 @@ Q
  
 endstream
 endobj
-122 0 obj
+126 0 obj
 << /Length 4936 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -8218,7 +8447,7 @@ Q
  
 endstream
 endobj
-123 0 obj
+127 0 obj
 << /Length 1413 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -8261,254 +8490,262 @@ Q
  
 endstream
 endobj
-124 0 obj
-<< /Nums [ 0 125 0 R 1 126 0 R 2 127 0 R 3 128 0 R 4 129 0 R 
-  5 130 0 R 6 131 0 R 7 132 0 R 8 133 0 R 9 134 0 R 
-  10 135 0 R 11 136 0 R 12 137 0 R 13 138 0 R 14 139 0 R 
-  15 140 0 R 16 141 0 R 17 142 0 R 18 143 0 R 19 144 0 R 
-  20 145 0 R 21 146 0 R 22 147 0 R 23 148 0 R 24 149 0 R 
-  25 150 0 R 26 151 0 R ] >>
-endobj
-125 0 obj
-<< /S /D /St 1 >>
-endobj
-126 0 obj
-<< /S /D /St 2 >>
-endobj
-127 0 obj
-<< /S /D /St 3 >>
-endobj
 128 0 obj
-<< /S /D /St 4 >>
+<< /Nums [ 0 129 0 R 1 130 0 R 2 131 0 R 3 132 0 R 4 133 0 R 
+  5 134 0 R 6 135 0 R 7 136 0 R 8 137 0 R 9 138 0 R 
+  10 139 0 R 11 140 0 R 12 141 0 R 13 142 0 R 14 143 0 R 
+  15 144 0 R 16 145 0 R 17 146 0 R 18 147 0 R 19 148 0 R 
+  20 149 0 R 21 150 0 R 22 151 0 R 23 152 0 R 24 153 0 R 
+  25 154 0 R 26 155 0 R 27 156 0 R ] >>
 endobj
 129 0 obj
-<< /S /D /St 5 >>
+<< /S /D /St 1 >>
 endobj
 130 0 obj
-<< /S /D /St 6 >>
+<< /S /D /St 2 >>
 endobj
 131 0 obj
-<< /S /D /St 7 >>
+<< /S /D /St 3 >>
 endobj
 132 0 obj
-<< /S /D /St 8 >>
+<< /S /D /St 4 >>
 endobj
 133 0 obj
-<< /S /D /St 9 >>
+<< /S /D /St 5 >>
 endobj
 134 0 obj
-<< /S /D /St 10 >>
+<< /S /D /St 6 >>
 endobj
 135 0 obj
-<< /S /D /St 11 >>
+<< /S /D /St 7 >>
 endobj
 136 0 obj
-<< /S /D /St 12 >>
+<< /S /D /St 8 >>
 endobj
 137 0 obj
-<< /S /D /St 13 >>
+<< /S /D /St 9 >>
 endobj
 138 0 obj
-<< /S /D /St 14 >>
+<< /S /D /St 10 >>
 endobj
 139 0 obj
-<< /S /D /St 15 >>
+<< /S /D /St 11 >>
 endobj
 140 0 obj
-<< /S /D /St 16 >>
+<< /S /D /St 12 >>
 endobj
 141 0 obj
-<< /S /D /St 17 >>
+<< /S /D /St 13 >>
 endobj
 142 0 obj
-<< /S /D /St 18 >>
+<< /S /D /St 14 >>
 endobj
 143 0 obj
-<< /S /D /St 19 >>
+<< /S /D /St 15 >>
 endobj
 144 0 obj
-<< /S /D /St 20 >>
+<< /S /D /St 16 >>
 endobj
 145 0 obj
-<< /S /D /St 21 >>
+<< /S /D /St 17 >>
 endobj
 146 0 obj
-<< /S /D /St 22 >>
+<< /S /D /St 18 >>
 endobj
 147 0 obj
-<< /S /D /St 23 >>
+<< /S /D /St 19 >>
 endobj
 148 0 obj
-<< /S /D /St 24 >>
+<< /S /D /St 20 >>
 endobj
 149 0 obj
-<< /S /D /St 25 >>
+<< /S /D /St 21 >>
 endobj
 150 0 obj
-<< /S /D /St 26 >>
+<< /S /D /St 22 >>
 endobj
 151 0 obj
+<< /S /D /St 23 >>
+endobj
+152 0 obj
+<< /S /D /St 24 >>
+endobj
+153 0 obj
+<< /S /D /St 25 >>
+endobj
+154 0 obj
+<< /S /D /St 26 >>
+endobj
+155 0 obj
 << /S /D /St 27 >>
 endobj
+156 0 obj
+<< /S /D /St 28 >>
+endobj
 xref
-0 152
+0 157
 0000000000 65535 f
 0000000075 00000 n
 0000000187 00000 n
 0000000297 00000 n
 0000000412 00000 n
 0000000530 00000 n
-0000000739 00000 n
-0000000922 00000 n
-0000001149 00000 n
-0000001271 00000 n
-0000001480 00000 n
-0000001589 00000 n
-0000001800 00000 n
-0000001979 00000 n
-0000002209 00000 n
-0000002420 00000 n
-0000002631 00000 n
-0000002842 00000 n
-0000002956 00000 n
-0000003167 00000 n
-0000003378 00000 n
-0000005006 00000 n
-0000007704 00000 n
-0000009506 00000 n
-0000009879 00000 n
-0000010090 00000 n
-0000010301 00000 n
-0000010512 00000 n
-0000010723 00000 n
-0000010934 00000 n
-0000011145 00000 n
-0000011252 00000 n
-0000011463 00000 n
-0000011674 00000 n
-0000011885 00000 n
-0000012096 00000 n
-0000012213 00000 n
-0000012424 00000 n
-0000040195 00000 n
-0000040470 00000 n
-0000040681 00000 n
-0000040892 00000 n
-0000041103 00000 n
+0000000740 00000 n
+0000000923 00000 n
+0000001151 00000 n
+0000001273 00000 n
+0000001483 00000 n
+0000001592 00000 n
+0000001803 00000 n
+0000001982 00000 n
+0000002212 00000 n
+0000002423 00000 n
+0000002609 00000 n
+0000002839 00000 n
+0000003050 00000 n
+0000003261 00000 n
+0000003375 00000 n
+0000003586 00000 n
+0000003797 00000 n
+0000005425 00000 n
+0000008123 00000 n
+0000009925 00000 n
+0000010298 00000 n
+0000010509 00000 n
+0000010720 00000 n
+0000010931 00000 n
+0000011142 00000 n
+0000011353 00000 n
+0000011564 00000 n
+0000011671 00000 n
+0000011882 00000 n
+0000012093 00000 n
+0000012304 00000 n
+0000012515 00000 n
+0000012632 00000 n
+0000012843 00000 n
+0000040614 00000 n
+0000040889 00000 n
+0000041100 00000 n
 0000041311 00000 n
-0000041488 00000 n
-0000041666 00000 n
-0000041847 00000 n
-0000042098 00000 n
-0000042208 00000 n
-0000042504 00000 n
-0000042582 00000 n
-0000042693 00000 n
-0000042870 00000 n
-0000043058 00000 n
-0000043168 00000 n
-0000043370 00000 n
-0000043516 00000 n
-0000043671 00000 n
-0000043799 00000 n
-0000043996 00000 n
-0000044129 00000 n
-0000044270 00000 n
-0000044426 00000 n
-0000044609 00000 n
-0000044734 00000 n
-0000044883 00000 n
-0000045079 00000 n
-0000045284 00000 n
-0000045399 00000 n
-0000045527 00000 n
-0000045663 00000 n
-0000045795 00000 n
-0000045952 00000 n
-0000046142 00000 n
-0000046301 00000 n
-0000046420 00000 n
-0000046603 00000 n
-0000046732 00000 n
-0000046842 00000 n
-0000047024 00000 n
-0000047146 00000 n
-0000047287 00000 n
-0000047472 00000 n
-0000047605 00000 n
-0000047739 00000 n
-0000047882 00000 n
-0000048011 00000 n
-0000048199 00000 n
-0000048325 00000 n
-0000048449 00000 n
-0000048627 00000 n
-0000048745 00000 n
-0000048935 00000 n
-0000049073 00000 n
+0000041522 00000 n
+0000041730 00000 n
+0000041907 00000 n
+0000042085 00000 n
+0000042266 00000 n
+0000042517 00000 n
+0000042627 00000 n
+0000042923 00000 n
+0000043001 00000 n
+0000043112 00000 n
+0000043288 00000 n
+0000043476 00000 n
+0000043586 00000 n
+0000043788 00000 n
+0000043934 00000 n
+0000044089 00000 n
+0000044230 00000 n
+0000044368 00000 n
+0000044565 00000 n
+0000044698 00000 n
+0000044839 00000 n
+0000044995 00000 n
+0000045178 00000 n
+0000045303 00000 n
+0000045452 00000 n
+0000045648 00000 n
+0000045853 00000 n
+0000045968 00000 n
+0000046096 00000 n
+0000046232 00000 n
+0000046364 00000 n
+0000046521 00000 n
+0000046711 00000 n
+0000046870 00000 n
+0000046989 00000 n
+0000047172 00000 n
+0000047301 00000 n
+0000047411 00000 n
+0000047593 00000 n
+0000047715 00000 n
+0000047856 00000 n
+0000048041 00000 n
+0000048174 00000 n
+0000048308 00000 n
+0000048451 00000 n
+0000048580 00000 n
+0000048768 00000 n
+0000048894 00000 n
+0000049018 00000 n
 0000049196 00000 n
-0000049313 00000 n
-0000049442 00000 n
-0000049694 00000 n
-0000050436 00000 n
-0000051787 00000 n
-0000055153 00000 n
-0000061474 00000 n
-0000068226 00000 n
-0000073959 00000 n
-0000080037 00000 n
-0000085326 00000 n
-0000092923 00000 n
-0000104951 00000 n
-0000113524 00000 n
-0000126243 00000 n
-0000145314 00000 n
-0000155069 00000 n
-0000169014 00000 n
-0000186139 00000 n
-0000197870 00000 n
-0000208564 00000 n
-0000226465 00000 n
-0000238154 00000 n
-0000241891 00000 n
-0000253061 00000 n
-0000263307 00000 n
-0000279149 00000 n
-0000296259 00000 n
-0000301253 00000 n
-0000302724 00000 n
-0000303067 00000 n
-0000303105 00000 n
-0000303143 00000 n
-0000303181 00000 n
-0000303219 00000 n
-0000303257 00000 n
-0000303295 00000 n
-0000303333 00000 n
-0000303371 00000 n
-0000303409 00000 n
-0000303448 00000 n
-0000303487 00000 n
-0000303526 00000 n
-0000303565 00000 n
-0000303604 00000 n
-0000303643 00000 n
-0000303682 00000 n
-0000303721 00000 n
-0000303760 00000 n
-0000303799 00000 n
-0000303838 00000 n
-0000303877 00000 n
-0000303916 00000 n
-0000303955 00000 n
-0000303994 00000 n
-0000304033 00000 n
-0000304072 00000 n
+0000049314 00000 n
+0000049504 00000 n
+0000049642 00000 n
+0000049765 00000 n
+0000049882 00000 n
+0000050011 00000 n
+0000050270 00000 n
+0000051013 00000 n
+0000052365 00000 n
+0000055731 00000 n
+0000062049 00000 n
+0000068801 00000 n
+0000074534 00000 n
+0000080736 00000 n
+0000086512 00000 n
+0000091598 00000 n
+0000099195 00000 n
+0000111223 00000 n
+0000119796 00000 n
+0000132515 00000 n
+0000151586 00000 n
+0000161341 00000 n
+0000175286 00000 n
+0000192411 00000 n
+0000204142 00000 n
+0000214836 00000 n
+0000232737 00000 n
+0000244426 00000 n
+0000248163 00000 n
+0000259333 00000 n
+0000269579 00000 n
+0000285421 00000 n
+0000302531 00000 n
+0000307525 00000 n
+0000308996 00000 n
+0000309350 00000 n
+0000309388 00000 n
+0000309426 00000 n
+0000309464 00000 n
+0000309502 00000 n
+0000309540 00000 n
+0000309578 00000 n
+0000309616 00000 n
+0000309654 00000 n
+0000309692 00000 n
+0000309731 00000 n
+0000309770 00000 n
+0000309809 00000 n
+0000309848 00000 n
+0000309887 00000 n
+0000309926 00000 n
+0000309965 00000 n
+0000310004 00000 n
+0000310043 00000 n
+0000310082 00000 n
+0000310121 00000 n
+0000310160 00000 n
+0000310199 00000 n
+0000310238 00000 n
+0000310277 00000 n
+0000310316 00000 n
+0000310355 00000 n
+0000310394 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\352\357\251\013\364_.[?F\022\243\210\340\222\363) (\352\357\251\013\364_.[?F\022\243\210\340\222\363)]
- /Info 48 0 R /Root 47 0 R /Size 152 >>
+ [(\242\347b\374\357\0218}\213\371\206\243W\302\0102) (\242\347b\374\357\0218}\213\371\206\243W\302\0102)]
+ /Info 50 0 R /Root 49 0 R /Size 157 >>
 startxref
-304111
+310433
 %%EOF
