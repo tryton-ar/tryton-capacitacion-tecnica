@@ -20,11 +20,11 @@ Temario
 
 .. class:: temario-n2
 
-1.1 Características generales de Tryton 
+1.1 Características generales de Tryton
 
 .. class:: temario-n2
 
-1.2 Herramientas y entornos de ejecución 
+1.2 Herramientas y entornos de ejecución
 
 .. class:: temario-n2
 
@@ -135,7 +135,7 @@ Características
 
 
 
-1.2. Herramientas y entornos de ejecución 
+1.2. Herramientas y entornos de ejecución
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Es recomendable utilizar algunas herramientas que facilitan la instalación y gestión de Tryton
@@ -217,11 +217,11 @@ De esta manera, en el *home* tendremos dos carpetas:
     no se encuentren disponibles para ser ejecutados porque la carpeta *.local/bin* del *home*
     no está incluida en la ruta PATH de los ejecutables.
     En esos casos puede ser necesario editar el archivo ~/.profile y agregar la línea:
-    
+
     PATH="$HOME/.local/bin:$PATH"
-    
+
     Luego, para que tome esta nueva configuración en línea de comandos, ejecutar:
-    
+
     $ source ~/.profile
 
 
@@ -234,7 +234,7 @@ Se crea el entorno virtual, al que llamamos, por ejemplo, *tryton-4.4*, pero pod
 
   $ mkvirtualenv tryton-4.4
   (tryton-4.4)$ pip install psycopg2==2.7.3
-  
+
 Al crear el entorno virtual el comando *mkvirtualenv* también activa este entorno: el prompt de la consola indica **(tryton-4.4)$**, es decir que antepone el nombre del entorno en el que nos encontramos.
 
 En este punto ya se puede empezar a instalar paquetes por medio de *pip*.
@@ -255,10 +255,10 @@ Si no se indicara versión y solamente se escribiera el nombre del paquete, ento
     en determinadas condiciones. Por ejemplo, para ejecutarlo en combinación
     con el gestor PostgreSQL es necesario instalar el paquete *psycopg2*
     (se puede utilizar *pip*)
-    
+
     Para una referencia completa, dentro de la carpeta del servidor Tryton leer
     las indicaciones del archivo *INSTALL*
-    
+
 Para comenzar a trabajar en un entorno de python y dejar de trabajar en él utilizamos los comandos *workon* y *deactivate*
 
 ::
@@ -304,7 +304,7 @@ El efecto de este comando sería borrar la subcarpeta *.vitualenvs/tryton-4.4*, 
 'pyenv' y las versiones de Python
 ---------------------------------
 
-Es posible que el sistema donde se intenta instalar Tryton tenga alguna versión antigua del lenguaje Python. Por eso es importante verificar en la página oficial, o en la documentación de los paquetes disponibles para descarga, cuál es la versión mínima de Python necesaria para ejecutar el servidor de Tryton o el programa cliente. 
+Es posible que el sistema donde se intenta instalar Tryton tenga alguna versión antigua del lenguaje Python. Por eso es importante verificar en la página oficial, o en la documentación de los paquetes disponibles para descarga, cuál es la versión mínima de Python necesaria para ejecutar el servidor de Tryton o el programa cliente.
 
 Para los casos en que el sistema no tenga disponible una versión adecuada, existe una herramienta llamada *pyenv*, que se puede utilizar en combinación con *virtualenv*.
 
@@ -348,7 +348,7 @@ Finalmente, si se usó el comando *pyenv global* para activar una nueva versión
     y herramientas de configuración que ofrece *pyenv*.
 
 
-1.3. Instalación e inicialización del servidor 
+1.3. Instalación e inicialización del servidor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Instalación de módulos
@@ -395,14 +395,13 @@ Algunas características de funcionamiento de Tryton pueden configurarse por med
 
 ::
 
-  [jsonrpc]
+  [web]
   listen=*:8000
-  data=/var/www/localhost/tryton
 
   [database]
   uri=postgresql://usuario:password@localhost:5432
   path=/var/lib/tryton/data # directorio donde se guardaran los adjuntos
-  
+
   [session]
   timeout=3600
 
@@ -419,13 +418,15 @@ Para poder utilizar la base de datos será necesario tener un usuario. Este usua
 
 ::
 
+  $ sudo su postgres
   $ createuser -s -P dbadmin
+  $ exit
 
 A continuación se debe crear la base de datos, llamada en este caso 'tryton44'
 
 ::
 
-  $ createdb -U dbadmin --encoding=UTF-8 tryton44
+  $ createdb -U dbadmin -h localhost --encoding=UTF-8 tryton44
 
 Es necesario editar el archivo *trytond.conf*, en la entrada *uri* de la sección *[database]*. Allí hay que indicar el usuario y contraseña que se ha definido.
 
@@ -433,19 +434,20 @@ Es necesario editar el archivo *trytond.conf*, en la entrada *uri* de la secció
 
   uri=postgresql://dbadmin:miclave@localhost:5432
 
-El siguiente paso es inicializar la base de datos 'tryton44'. Para esto es necesario tener activado el entorno virtual. El comando a utilizar es *trytond-admin*. El parámetro *-p* hará que al finalizar este proceso se pida una contraseña de usuario *admin*.
+El siguiente paso es inicializar la base de datos 'tryton44'. Para esto es necesario tener activado el entorno virtual. El comando a utilizar es *trytond-admin*. El parámetro *'-l es'* activará el idioma español para permitir su configuración en las preferencias de usuarios.
 
-Hay que tener en claro que este usuario *admin* es el usuario administrador del sistema Tryton cuya base de datos estamos inicializando. Es distinto del usuario *dbadmin*, de PostgreSQL.
 
-::
-
-  (tryton-4.4) $ trytond-admin -v -p -c /etc/trytond.conf -d tryton44 --all
-
-Al terminar, estaremos en condiciones de ejecutar el servidor Tryton, para lo cual se utiliza el comando *trytond*. Con el parámetro *-c* se indicará la ubicación del archivo de configuración. Por su parte, *-v* (verbose) hará que el comando vaya generando información en pantalla, mientras que *-d* permitirá indicar la base de datos a utilizar.
+Al finalizar este proceso se pedirá una contraseña de usuario *admin*. Hay que tener en claro que este usuario *admin* es el usuario administrador del sistema Tryton cuya base de datos estamos inicializando. Es distinto del usuario *dbadmin*, de PostgreSQL.
 
 ::
 
-  (tryton-4.4) $ trytond -c /etc/trytond.conf -v -d tryton44
+  (tryton-4.4) $ trytond-admin -c /etc/trytond.conf -d tryton44 --all -l es -v
+
+Al terminar, estaremos en condiciones de ejecutar el servidor Tryton, para lo cual se utiliza el comando *trytond*. Con el parámetro *-c* se indicará la ubicación del archivo de configuración. Por su parte, *-v* (verbose) hará que el comando vaya generando información en pantalla.
+
+::
+
+  (tryton-4.4) $ trytond -c /etc/trytond.conf -v
 
 
 2. Un módulo básico
@@ -486,11 +488,11 @@ En **opportunity.py**:
     from trytond.model import ModelSQL
 
     __all__ = ['Opportunity']
-     
+
     class Opportunity(ModelSQL):
     'Opportunity'
     __name__ = 'training.opportunity'
-    
+
 Para que Tryton tome nota de la existencia de este modelo es necesario registrarlo en el *Pool* de modelos
 
 En **__init__.py**:
@@ -499,8 +501,8 @@ En **__init__.py**:
 
     from trytond.pool import Pool
     from .opportunity import *
-    
-    
+
+
     def register():
         Pool.register(
             Opportunity,
@@ -514,10 +516,10 @@ Volvemos a **opportunity.py**:
 .. code-block:: python
 
     from trytond.model import ModelSQL, ModelView, fields
-    
+
     __all__ = ['Opportunity']
-    
-    
+
+
     class Opportunity(ModelSQL, ModelView):
         'Opportunity'
         __name__ = 'training.opportunity'
@@ -551,7 +553,7 @@ Cada uno de ellos tiene atributos que establecen su comportamiento:
     *required*, *readonly* e *invisible*
 
   Nótese que las dos primeras coinciden con atributos ya mencionados.
-  
+
   Los valores posibles para estas claves son expresiones **pyson**
   que se evalúan con valores de cada registro.
   De esta manera es posible cambiar dinámicamente los atributos del campo.
@@ -715,7 +717,7 @@ Definición de *view/opportunity_form.xml*:
         <separator name="comment" colspan="4"/>
         <field name="comment" colspan="4"/>
     </form>
-    
+
 
 Armando las piezas
 ------------------
@@ -955,7 +957,7 @@ Un campo de tipo *function* es un campo que puede emular otro tipo cualquiera de
 .. code-block:: python
 
     duration = fields.Function(fields.Integer('Duration'), 'get_duration')
-    
+
     def get_duration(self, name=None):
         if not self.start_date or not self.end_date:
             return None
@@ -967,7 +969,7 @@ El primer parámetro a definir es el tipo del campo (*Integer* en el ejemplo). C
 
     Hay que notar que el método *getter* que se define es semejante en su estructura al *on_change_with*:
     en virtud de ciertos valores o condiciones, se obtiene un valor para el campo.
-    
+
     Por este motivo, no es extraño encontrar que la misma función es usada con ese fin:
     en lugar de algo como *'get_duration'*, se la escribe como *'on_change_with_duration'*
 
@@ -991,12 +993,12 @@ No obstante, es posible calcular los valores de manera masiva, por lotes. Para e
     @classmethod
     def get_description_length(cls, opportunities, name):
         cursor = Transaction.cursor()
-        
+
         opportunity = cls.__table__()
         query = opportunity.select(
             opportunity.id, CharLength(opportunity.description))
         cursor.execute(∗query)
-        
+
         return dict(cursor.fetchall())
 
 
@@ -1043,14 +1045,14 @@ Las clases que constituyen el wizard heredan, precisamente, de *Wizard*, y en el
     class ConvertOpportunities(Wizard):
         'Convert Opportunities'
         __name__ = 'training.opportunity.convert'
-    
+
         start = StateView('training.opportunity.convert.start',
             'training.opportunity_convert_start_view_form', [
                 Button('Cancel', 'end', 'tryton-cancel'),
                 Button('Convert', 'convert', 'tryton-ok', default=True),
                 ])
         convert = StateTransition()
-    
+
         def transition_convert(self):
             pool = Pool()
             Opportunity = pool.get('training.opportunity')
@@ -1118,11 +1120,11 @@ Existe una clase llamada *PoolMeta*, que es una *metaclase*. Una *metaclase* es 
 
     from trytond.model import fields
     from trytond.pool import PoolMeta
-    
+
     __all__ = ['Party']
     __metaclass__ = PoolMeta
-    
-    
+
+
     class Party:
         __name__ = 'party.party'
         opportunities = fields.One2Many('training.opportunity',
@@ -1184,7 +1186,7 @@ Se debe definir una clase que herede *Report*. Para personalizar el reporte se p
 
     class ReporteConsultas(Report):
         __name__ = 'servicio.reporte.consultas'
-    
+
         @classmethod
         def get_context(cls, records, data):
             report_context = super(ReporteConsultas, cls).get_context(records, data)
@@ -1375,7 +1377,7 @@ El objetivo es que nuevas oportunidades (*Opportunity*) se carguen en la base de
             new_opportunity = Opportunity(party=party,
                     description=line['Description'], start_date=line_date)
             new_opportunity.save()
-            
+
     if __name__ == '__main__':
         config.set_trytond(password='admin', database_name='training')
         main(sys.argv)
