@@ -189,7 +189,7 @@ endobj
 << /Outlines 51 0 R /PageLabels 128 0 R /PageMode /UseNone /Pages 99 0 R /Type /Catalog >>
 endobj
 50 0 obj
-<< /Author () /CreationDate (D:20171026193119+03'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20171106182520+03'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Tryton: Capacitaci\363n t\351cnica) >>
 endobj
 51 0 obj
@@ -5618,7 +5618,7 @@ Q
 endstream
 endobj
 118 0 obj
-<< /Length 10850 >>
+<< /Length 11071 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -5708,11 +5708,17 @@ n 66 84.75 6 12 re f*
 .960784 .960784 .862745 rg
 n 78 84.75 66 12 re f*
 .960784 .960784 .862745 rg
-n 144 84.75 6 12 re f*
+n 144 84.75 12 12 re f*
 .960784 .960784 .862745 rg
-n 150 84.75 36 12 re f*
+n 156 84.75 6 12 re f*
 .960784 .960784 .862745 rg
-n 186 84.75 12 12 re f*
+n 162 84.75 60 12 re f*
+.960784 .960784 .862745 rg
+n 222 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 228 84.75 36 12 re f*
+.960784 .960784 .862745 rg
+n 264 84.75 12 12 re f*
 .960784 .960784 .862745 rg
 n 24 60.75 66 12 re f*
 .960784 .960784 .862745 rg
@@ -5785,7 +5791,7 @@ n 132 .75 6 12 re f*
 n 138 .75 48 12 re f*
 .960784 .960784 .862745 rg
 n 186 .75 18 12 re f*
-BT 1 0 0 1 0 146 Tm 12 TL /F5 10 Tf 0 0 0 rg (description_length) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (fields) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (Function) Tj 0 0 0 rg (\() Tj 0 0 0 rg (fields) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (Integer) Tj 0 0 0 rg (\() Tj .733333 .266667 .266667 rg ('Description Length') Tj 0 0 0 rg (\),) Tj 0 0 0 rg  T* (    ) Tj .733333 .266667 .266667 rg ('get_description_length') Tj 0 0 0 rg (\)) Tj 0 0 0 rg  T*  T* .666667 .133333 1 rg (@classmethod) Tj 0 0 0 rg  T* /F6 10 Tf .666667 .133333 1 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 .627451 0 rg (get_description_length) Tj 0 0 0 rg (\() Tj 0 0 0 rg (cls) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (opportunities) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (name) Tj 0 0 0 rg (\):) Tj 0 0 0 rg  T* (    ) Tj 0 0 0 rg (cursor) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (Transaction) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (cursor) Tj 0 0 0 rg (\(\)) Tj 0 0 0 rg  T*  T* (    ) Tj 0 0 0 rg (opportunity) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (cls) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (__table__) Tj 0 0 0 rg (\(\)) Tj 0 0 0 rg  T* (    ) Tj 0 0 0 rg (query) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (opportunity) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (select) Tj 0 0 0 rg (\() Tj 0 0 0 rg  T* (        ) Tj 0 0 0 rg (opportunity) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (id) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (CharLength) Tj 0 0 0 rg (\() Tj 0 0 0 rg (opportunity) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (description) Tj 0 0 0 rg (\)\)) Tj 0 0 0 rg  T* (    ) Tj 0 0 0 rg (cursor) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (execute) Tj 0 0 0 rg (\() Tj 0 0 0 rg /F7 10 Tf 12 TL (*) Tj /F5 10 Tf 12 TL 0 0 0 rg (query) Tj 0 0 0 rg (\)) Tj 0 0 0 rg  T*  T* (    ) Tj /F6 10 Tf .666667 .133333 1 rg (return) Tj /F5 10 Tf 0 0 0 rg ( ) Tj .666667 .133333 1 rg (dict) Tj 0 0 0 rg (\() Tj 0 0 0 rg (cursor) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (fetchall) Tj 0 0 0 rg (\(\)\)) Tj T* ET
+BT 1 0 0 1 0 146 Tm 12 TL /F5 10 Tf 0 0 0 rg (description_length) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (fields) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (Function) Tj 0 0 0 rg (\() Tj 0 0 0 rg (fields) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (Integer) Tj 0 0 0 rg (\() Tj .733333 .266667 .266667 rg ('Description Length') Tj 0 0 0 rg (\),) Tj 0 0 0 rg  T* (    ) Tj .733333 .266667 .266667 rg ('get_description_length') Tj 0 0 0 rg (\)) Tj 0 0 0 rg  T*  T* .666667 .133333 1 rg (@classmethod) Tj 0 0 0 rg  T* /F6 10 Tf .666667 .133333 1 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 .627451 0 rg (get_description_length) Tj 0 0 0 rg (\() Tj 0 0 0 rg (cls) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (opportunities) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (name) Tj 0 0 0 rg (\):) Tj 0 0 0 rg  T* (    ) Tj 0 0 0 rg (cursor) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (Transaction) Tj 0 0 0 rg (\(\)) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (connection) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (cursor) Tj 0 0 0 rg (\(\)) Tj 0 0 0 rg  T*  T* (    ) Tj 0 0 0 rg (opportunity) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (cls) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (__table__) Tj 0 0 0 rg (\(\)) Tj 0 0 0 rg  T* (    ) Tj 0 0 0 rg (query) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (opportunity) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (select) Tj 0 0 0 rg (\() Tj 0 0 0 rg  T* (        ) Tj 0 0 0 rg (opportunity) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (id) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (CharLength) Tj 0 0 0 rg (\() Tj 0 0 0 rg (opportunity) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (description) Tj 0 0 0 rg (\)\)) Tj 0 0 0 rg  T* (    ) Tj 0 0 0 rg (cursor) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (execute) Tj 0 0 0 rg (\() Tj 0 0 0 rg /F7 10 Tf 12 TL (*) Tj /F5 10 Tf 12 TL 0 0 0 rg (query) Tj 0 0 0 rg (\)) Tj 0 0 0 rg  T*  T* (    ) Tj /F6 10 Tf .666667 .133333 1 rg (return) Tj /F5 10 Tf 0 0 0 rg ( ) Tj .666667 .133333 1 rg (dict) Tj 0 0 0 rg (\() Tj 0 0 0 rg (cursor) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (fetchall) Tj 0 0 0 rg (\(\)\)) Tj T* ET
 Q
 Q
 Q
@@ -8681,49 +8687,49 @@ xref
 0000177349 00000 n
 0000194966 00000 n
 0000206885 00000 n
-0000217794 00000 n
-0000236214 00000 n
-0000248152 00000 n
-0000251982 00000 n
-0000263385 00000 n
-0000273856 00000 n
-0000290079 00000 n
-0000307635 00000 n
-0000312758 00000 n
-0000314229 00000 n
-0000314583 00000 n
-0000314621 00000 n
-0000314659 00000 n
-0000314697 00000 n
-0000314735 00000 n
-0000314773 00000 n
-0000314811 00000 n
-0000314849 00000 n
-0000314887 00000 n
-0000314925 00000 n
-0000314964 00000 n
-0000315003 00000 n
-0000315042 00000 n
-0000315081 00000 n
-0000315120 00000 n
-0000315159 00000 n
-0000315198 00000 n
-0000315237 00000 n
-0000315276 00000 n
-0000315315 00000 n
-0000315354 00000 n
-0000315393 00000 n
-0000315432 00000 n
-0000315471 00000 n
-0000315510 00000 n
-0000315549 00000 n
-0000315588 00000 n
-0000315627 00000 n
+0000218015 00000 n
+0000236435 00000 n
+0000248373 00000 n
+0000252203 00000 n
+0000263606 00000 n
+0000274077 00000 n
+0000290300 00000 n
+0000307856 00000 n
+0000312979 00000 n
+0000314450 00000 n
+0000314804 00000 n
+0000314842 00000 n
+0000314880 00000 n
+0000314918 00000 n
+0000314956 00000 n
+0000314994 00000 n
+0000315032 00000 n
+0000315070 00000 n
+0000315108 00000 n
+0000315146 00000 n
+0000315185 00000 n
+0000315224 00000 n
+0000315263 00000 n
+0000315302 00000 n
+0000315341 00000 n
+0000315380 00000 n
+0000315419 00000 n
+0000315458 00000 n
+0000315497 00000 n
+0000315536 00000 n
+0000315575 00000 n
+0000315614 00000 n
+0000315653 00000 n
+0000315692 00000 n
+0000315731 00000 n
+0000315770 00000 n
+0000315809 00000 n
+0000315848 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\206A\203}\363\252\365\217n\256\240\223S\307\016j) (\206A\203}\363\252\365\217n\256\240\223S\307\016j)]
+ [(\216\332\337\312\332\326\346lT\\'\317a5`\335) (\216\332\337\312\332\326\346lT\\'\317a5`\335)]
  /Info 50 0 R /Root 49 0 R /Size 157 >>
 startxref
-315666
+315887
 %%EOF

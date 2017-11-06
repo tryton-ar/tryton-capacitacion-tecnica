@@ -992,7 +992,7 @@ No obstante, es posible calcular los valores de manera masiva, por lotes. Para e
 
     @classmethod
     def get_description_length(cls, opportunities, name):
-        cursor = Transaction.cursor()
+        cursor = Transaction().connection.cursor()
 
         opportunity = cls.__table__()
         query = opportunity.select(
